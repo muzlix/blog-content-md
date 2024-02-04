@@ -2,7 +2,7 @@
 title: '45 Game-Changing 2024 Figma Plugins You Can’t Miss!'
 description: 'Carefully curated, these plugins are poised to enhance your workflow, amplify your creativity, and elevate your Figma experience.'
 draft: false
-date: '2024-01-28'
+date: '2024-02-04'
 image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ONfszRDYklkV4PInzodQgQ.png'
 
 ---
