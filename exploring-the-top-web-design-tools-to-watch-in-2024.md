@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the top web design tools to watch in 2024'
 description: 'A glimpse into some of the most compelling tools that every web designer should keep an eye on this year'
-draft: true
+draft: false
 date: '2024-02-01'
 image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0ZZDPXkiTRjgey7ap2xA0Q.png'
 ---
