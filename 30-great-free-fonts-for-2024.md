@@ -1,6 +1,6 @@
 ---
 title: '30 Great Free Fonts for 2024'
-description: ''
+description: 'Choosing the right font can make a significant impact on the visual appeal of your project. As we step into 2024, let’s explore 30 outstanding free fonts that can add creativity and style to your designs.'
 draft: false
 date: '2024-01-28'
 image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*VzKyeLWBuh9YXl9iXcZAlA.png'

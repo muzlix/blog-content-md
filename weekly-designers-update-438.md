@@ -1,6 +1,6 @@
 ---
 title: 'Weekly Designers Update #438'
-description: ''
+description: 'Web design inspiration, weekly recap'
 draft: false
 date: '2024-02-01'
 image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*LY6o-eYYtVBzY0DyEUrAIQ.png'

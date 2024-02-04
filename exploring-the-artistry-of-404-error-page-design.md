@@ -1,6 +1,6 @@
 ---
 title: '404 Creatives: Exploring the Artistry of 404 Error Page Design'
-description: ''
+description: 'The 404 page is a common occurrence on the web, and it’s a good idea to think about how to design one. In this article, we’ll explore the artistry of 404 error page design.'
 draft: false
 date: '2024-01-30'
 image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*7KCpGW9_D2rIlNV2JhFspQ.png'
