@@ -155,10 +155,10 @@ Create custom-styled tables which can be easily resized, edited and automaticall
 [<img height="392" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*gOnrfBC75IPsTzp1i4tRtA.png" />](https://www.figma.com/community/plugin/885838970710285271)
 
 ---
-## Chart
+## [Chart](https://www.figma.com/community/plugin/734590934750866002/chart?searchSessionId=ls8lvf5s-16583oxn00u)
 
 Chart is the most powerful plugin for Figma that uses real or random data to create 18 types of charts. Chart supports copy-paste from editors like Excel, Numbers, Google Sheets, live connection with Google Sheets and remote JSON (REST API), local CSV and JSON files---
-<img height="389" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*epNwK3rNb0fD6FzWF4Kf1A.png" />
+[<img height="389" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*epNwK3rNb0fD6FzWF4Kf1A.png" />](https://www.figma.com/community/plugin/734590934750866002/chart?searchSessionId=ls8lvf5s-16583oxn00u)
 
 ---
 ## [Stark — Contrast & Accessibility Tools](https://www.figma.com/community/plugin/732603254453395948)

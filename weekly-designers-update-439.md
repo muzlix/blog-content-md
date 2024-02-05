@@ -105,42 +105,36 @@ A simple plugin that allows you to warp 🌀, bend, and distort vector shapes---
 [<img height="350" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*pege5eg5sGEdppHTM8xvYw.png" />](https://www.figma.com/community/plugin/923820065156924054/warp-it)
 
 
-
+---
 [<img height="465" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*yqTi23dYhz3GutmOMvcrRw.png" />](https://muz.li/)
 
+---
 ## Design inspiration
 
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*e3Z1ZUuS6B-GI3RO" />
-iOS Material Design by [Slava Kornilov](https://dribbble.com/slavakornilov) for [Geex Arts](https://dribbble.com/GeexArts)
+
+
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*e3Z1ZUuS6B-GI3RO" />iOS Material Design by [Slava Kornilov](https://dribbble.com/slavakornilov) for [Geex Arts](https://dribbble.com/GeexArts)
 
 ---
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*zwjEUZUhdFqf0DVFdIzakg.png" />
-Crypto Wallet App Design by [Sam Halpert](https://dribbble.com/reng1sed) for [Awsmd](https://dribbble.com/awsmd)
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*zwjEUZUhdFqf0DVFdIzakg.png" />Crypto Wallet App Design by [Sam Halpert](https://dribbble.com/reng1sed) for [Awsmd](https://dribbble.com/awsmd)
 
 ---
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*m8Zh_EnUepbyvrRH" />
-Cybersecurity platform: website, hero, landing page design by [Vlad Udovenko](https://dribbble.com/dexlerv) for [Implse](https://dribbble.com/implse)
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*m8Zh_EnUepbyvrRH" />Cybersecurity platform: website, hero, landing page design by [Vlad Udovenko](https://dribbble.com/dexlerv) for [Implse](https://dribbble.com/implse)
 
 ---
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*dI5UtVs6cIQ4R-jE" />
-MEISENPRESS Halftone Processing Kit by [Emir Ayouni](https://dribbble.com/growcase)
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*dI5UtVs6cIQ4R-jE" />MEISENPRESS Halftone Processing Kit by [Emir Ayouni](https://dribbble.com/growcase)
 
 ---
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*lTDqRrkWNsGYJrPd" />
-Creative stickers by [Tyler Pate](https://dribbble.com/thecreativepain)
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*lTDqRrkWNsGYJrPd" />Creative stickers by [Tyler Pate](https://dribbble.com/thecreativepain)
 
 ---
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*gq1jNZnCUJKezyQK" />
-2D Flat Character Design Illustration, Minimal Digital Art by [Mark Rise](https://dribbble.com/gigantic_click)
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*gq1jNZnCUJKezyQK" />2D Flat Character Design Illustration, Minimal Digital Art by [Mark Rise](https://dribbble.com/gigantic_click)
 
 ---
-<img height="465" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*R8rTzH4Ib5kKe0zQvWMCcQ.png" />
-Karst by [Elizaveta Pogossov](https://www.behance.net/elizavepogosso)
+<img height="465" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*R8rTzH4Ib5kKe0zQvWMCcQ.png" />Karst by [Elizaveta Pogossov](https://www.behance.net/elizavepogosso)
 
 ---
-<img height="845" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*HbQw9ECiC_g_k1sPkFMg1w.png" />
-小红书 阳台改造箱 by [REDesign official](https://www.behance.net/redesignb4b3)
+<img height="845" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*HbQw9ECiC_g_k1sPkFMg1w.png" />小红书 阳台改造箱 by [REDesign official](https://www.behance.net/redesignb4b3)
 
 ---
-<img height="485" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*L7tdcZL9hAILaxz0Ts0elA.png" />
-ZISSOU®. Identity by [democràcia estudi](https://www.behance.net/democracia)
+<img height="485" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*L7tdcZL9hAILaxz0Ts0elA.png" />ZISSOU®. Identity by [democràcia estudi](https://www.behance.net/democracia)
