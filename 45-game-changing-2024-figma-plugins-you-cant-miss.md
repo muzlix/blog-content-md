@@ -80,8 +80,12 @@ Remove the background of images automatically with just a single click
 
 Let Anima code like YOU with AI Code Personalization
 Get code, based on your design, and accelerate the design to development process---
-[<img height="392" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*CRb4NSf04yk42vqAZUI5pw.png" />](https://www.figma.com/community/plugin/857346721138427857)[<img height="465" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*yqTi23dYhz3GutmOMvcrRw.png" />](https://muz.li/)
+[<img height="392" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*CRb4NSf04yk42vqAZUI5pw.png" />](https://www.figma.com/community/plugin/857346721138427857)
 
+---
+[<img height="465" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*yqTi23dYhz3GutmOMvcrRw.png" />](https://muz.li/)
+
+---
 ## [Icons8 — icons, illustrations, photos](https://www.figma.com/community/plugin/791103617505812222)
 
 Keep your flow with the largest and most consistent collection of curated graphics. Get 1.5M+ icons, photos, and illustrations without ever needing to leave Figma!
