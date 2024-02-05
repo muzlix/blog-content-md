@@ -112,7 +112,6 @@ A simple plugin that allows you to warp 🌀, bend, and distort vector shapes---
 ## Design inspiration
 
 
-
 <img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*e3Z1ZUuS6B-GI3RO" />iOS Material Design by [Slava Kornilov](https://dribbble.com/slavakornilov) for [Geex Arts](https://dribbble.com/GeexArts)
 
 ---
@@ -138,3 +137,5 @@ A simple plugin that allows you to warp 🌀, bend, and distort vector shapes---
 
 ---
 <img height="485" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*L7tdcZL9hAILaxz0Ts0elA.png" />ZISSOU®. Identity by [democràcia estudi](https://www.behance.net/democracia)
+
+
