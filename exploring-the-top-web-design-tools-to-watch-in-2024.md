@@ -47,7 +47,7 @@ Spline is a 3D design tool that makes creating and collaborating on 3D content a
 Wix Studio is an advanced design suite within the Wix platform that offers professional-grade design capabilities---
 [<img height="437" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*mjIJFxHgNQ5d0uL7.png" />](https://www.wix.com/studio)
 
-## ---
+---
 ## [Relume](https://library.relume.io/?via=muzli)
 
 Use AI as your design ally, not as a replacement. Effortlessly generate sitemaps and wireframes for marketing websites in minutes with Relume’s AI website builder---
