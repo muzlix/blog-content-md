@@ -8,7 +8,7 @@ image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0ZZDPXkiTRjgey7
 
 Web designers are constantly on the lookout for tools and technologies that can streamline their workflow, enhance creativity, and deliver exceptional user experiences. In 2024, the realm of web design is teeming with innovative tools that promise to revolutionize the way websites are conceptualized, designed, and developed. Here’s a glimpse into some of the most compelling tools that every web designer should keep an eye on this year:
 
-## Muzli
+## [Muzli](https://muz.li/)
 
 **Your Go-To Design Inspiration Hub (Yes, We’re Recommending Ourselves!):**
 
