@@ -30,10 +30,10 @@ Webflow is a web design tool that combines visual design with CMS and hosting se
 [<img height="367" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*fyPn4LV1-nQv_F6r.jpg" />](https://webflow.partnerlinks.io/aar4qg1gxitv)
 
 ---
-## [Framer](https://www.framer.com/ai?via=usemuzli)
+## [Framer](https://www.framer.com/?via=usemuzli)
 
 Framer is a web design tool that allows designers to create complex interactions and animations for their designs. Use powerful yet familiar tools to create your ultimate website design---
-[<img height="367" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*dM_hzy83wGr2D5PC.png" />](https://www.framer.com/ai?via=usemuzli)
+[<img height="367" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*dM_hzy83wGr2D5PC.png" />](https://www.framer.com/?via=usemuzli)
 
 ---
 ## [Spline](https://spline.design/)
