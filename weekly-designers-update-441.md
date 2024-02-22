@@ -97,7 +97,7 @@ Stey using AI to help you rewrite more attractive text, bring more clicks and re
 
 [<img height="427" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*2pD0QJmwKx_0mIcV.png" />](https://stey.framer.website/)
 
-***— —Recommended articles — —***
+## Recommended articles
 
 [<img height="600" width="334" src="https://miro.medium.com/v2/resize:fit:800/1*v5cSJbujbqaxjlB7sGVfnA.png" />](https://muz.li/blog/45-game-changing-2024-figma-plugins-you-cant-miss)[<img height="600" width="334" src="https://miro.medium.com/v2/resize:fit:800/1*cnXf7EP4-ph3nHCRJ0qXjw.png" />](https://muz.li/blog/exploring-the-top-web-design-tools-to-watch-in-2024)[<img height="600" width="334" src="https://miro.medium.com/v2/resize:fit:800/1*CKMQ1hoeklTagARwMqz93A.png" />](https://muz.li/blog/60-most-creative-portfolio-websites-of-2023)
 
