@@ -9,7 +9,7 @@ image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*aXs8IoHBz8Mhg-V
 ## Explore Innovative Footer Designs for Your Website Inspiration
 
 our website’s footer isn’t just a space for legal jargon or contact information — it’s a canvas for creativity and a chance to leave a lasting impression on your visitors. Whether you’re aiming for a clean and modern aesthetic or want to inject some personality into your design, the footer is a prime opportunity to showcase your brand’s identity. Get ready to be inspired as we delve into 10 captivating website footer designs that will elevate your online presence---
-### Creative footer examples:
+## Creative footer examples:
 
 [<img height="500" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*TFVequS5i4Y42o9oJZ5YfQ.png" />](https://www.wix.com/playground)[https://www.wix.com/playground](https://www.wix.com/playground)
 
@@ -44,10 +44,13 @@ our website’s footer isn’t just a space for legal jargon or contact informat
 [<img height="800" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*cFQObWvpjuKCOUaP41v--Q.png" />](https://www.fabrichealth.com/)[https://www.fabrichealth.com](https://www.fabrichealth.com/)
 
 ---
-[<img height="501" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*9CyZEJlLW5twEyqRReAbRw.png" />](https://www.wearegrant.com/)[https://www.wearegrant.com](https://www.wearegrant.com/)[<img height="465" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*yqTi23dYhz3GutmOMvcrRw.png" />](https://muz.li/)
+[<img height="501" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*9CyZEJlLW5twEyqRReAbRw.png" />](https://www.wearegrant.com/)[https://www.wearegrant.com](https://www.wearegrant.com/)
+
+---
+[<img height="465" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*yqTi23dYhz3GutmOMvcrRw.png" />](https://muz.li/)
 
 
-
+---
 [<img height="499" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*sOIMpEaNeG93ZSExqDcQ8g.png" />](https://viewbook.tiltonschool.org/)[https://viewbook.tiltonschool.org](https://viewbook.tiltonschool.org/)
 
 ---
@@ -120,8 +123,11 @@ our website’s footer isn’t just a space for legal jargon or contact informat
 [<img height="500" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*CmnkuI1uU55yc4dWR7WA3g.png" />](https://opalcamera.com/)[https://opalcamera.com](https://opalcamera.com/)
 
 
+---
+[<img height="465" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*yqTi23dYhz3GutmOMvcrRw.png" />](https://muz.li/)
 
-[<img height="465" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*yqTi23dYhz3GutmOMvcrRw.png" />](https://muz.li/)[<img height="499" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*xYEUtdRSXT6qZ48o8jTMzw.png" />](https://www.elegantseagulls.com/)[https://www.elegantseagulls.com](https://www.elegantseagulls.com/)
+---
+[<img height="499" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*xYEUtdRSXT6qZ48o8jTMzw.png" />](https://www.elegantseagulls.com/)[https://www.elegantseagulls.com](https://www.elegantseagulls.com/)
 
 ---
 [<img height="497" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*K8QXrcb0LkwN8c-_OsFdmQ.png" />](https://besharm.in/)[https://besharm.in](https://besharm.in/)
