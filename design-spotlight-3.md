@@ -53,8 +53,10 @@ Embracing the artistry of coffee roasting, Omsky Studio’s innovative packaging
 [<img src="https://miro.medium.com/v2/resize:fit:2000/0*yyBkNWO1L3_3pG2-" />](https://omsky.studio/17/)
 ---
 [<img src="https://miro.medium.com/v2/resize:fit:1956/0*D63BSOXBrotVQNwy" />](https://omsky.studio/17/)
-[**Aware — design by** Fibra · Branding & Packaging](https://www.behance.net/gallery/164814073/Aware)
------------------------------------------------------------------------------------------------------
+
+
+## [Aware — design by** Fibra · Branding & Packaging](https://www.behance.net/gallery/164814073/Aware)
+
 
 Step into the world of design transformation with Aware Bio. Witnessing the evolution of cosmetic branding, one project stood out: Aware Bio’s rebranding journey.
 
