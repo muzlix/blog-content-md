@@ -55,7 +55,7 @@ Embracing the artistry of coffee roasting, Omsky Studio’s innovative packaging
 [<img src="https://miro.medium.com/v2/resize:fit:1956/0*D63BSOXBrotVQNwy" />](https://omsky.studio/17/)
 
 
-## [Aware — design by** Fibra · Branding & Packaging](https://www.behance.net/gallery/164814073/Aware)
+## [Aware — design by Fibra · Branding & Packaging](https://www.behance.net/gallery/164814073/Aware)
 
 
 Step into the world of design transformation with Aware Bio. Witnessing the evolution of cosmetic branding, one project stood out: Aware Bio’s rebranding journey.
@@ -110,10 +110,10 @@ Project: Make a Mark III
 Developed by: Avery Dennison, Estal & Leonhard KURZ
 
 
-[<img height="2268" width="499" src="https://miro.medium.com/v2/resize:fit:2286/1*bKxWds4QEnAIHcFLrrEsJQ.png" />](https://www.behance.net/gallery/191865395/Fiore-CGI)
+[<img src="https://miro.medium.com/v2/resize:fit:2286/1*bKxWds4QEnAIHcFLrrEsJQ.png" />](https://www.behance.net/gallery/191865395/Fiore-CGI)
 ---
-[<img height="2264" width="502" src="https://miro.medium.com/v2/resize:fit:2292/1*7akHLsGaACvujdahM6J1Ow.png" />](https://www.behance.net/gallery/191865395/Fiore-CGI)
+[<img src="https://miro.medium.com/v2/resize:fit:2292/1*7akHLsGaACvujdahM6J1Ow.png" />](https://www.behance.net/gallery/191865395/Fiore-CGI)
 ---
-[<img height="2270" width="501" src="https://miro.medium.com/v2/resize:fit:2294/1*B_628HKwtoN4fHfnU_M8dA.png" />](https://www.behance.net/gallery/191865395/Fiore-CGI)
+[<img src="https://miro.medium.com/v2/resize:fit:2294/1*B_628HKwtoN4fHfnU_M8dA.png" />](https://www.behance.net/gallery/191865395/Fiore-CGI)
 ---
 [<img src="https://miro.medium.com/v2/resize:fit:2282/1*kqeqP8B50jwusQLSdZdiPg.png" />](https://www.behance.net/gallery/191865395/Fiore-CGI)[https://www.behance.net/gallery/191865395/Fiore-CGI](https://www.behance.net/gallery/191865395/Fiore-CGI)
