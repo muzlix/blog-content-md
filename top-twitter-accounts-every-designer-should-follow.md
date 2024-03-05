@@ -6,7 +6,7 @@ date: '2024-03-05'
 image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*5dNB-W5GdXfO6jz3DZ0ffA.png'
 ---
 
-
+## Top twitter accounts every designer should follow
 
 Okay, we might have gone a bit overboard with the ‘every designer should follow,’ but seriously, these accounts are worth checking out. Prepare to be inspired!
 
@@ -17,7 +17,6 @@ Rest assured, we’ve sifted through countless accounts to bring you only the fi
 However, if you believe we’ve overlooked a gem, don’t hesitate to tag them under the shared tweet of this post on our [twitter account!](https://twitter.com/usemuzli)
 
 
-## Top twitter accounts every designer should follow
 
 [<img height="158" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*h1QjpO2GSu_Icot8A7-oCA.png" />](https://twitter.com/usemuzli)**Muzli —** [@usemuzli](https://twitter.com/usemuzli)
 
