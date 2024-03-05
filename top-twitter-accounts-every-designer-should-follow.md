@@ -483,7 +483,7 @@ Rest assured, we’ve sifted through countless accounts to bring you only the fi
 ---
 [<img height="158" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*EPQO-f-gzXo7mQfBCRWYiQ.png" />](https://twitter.com/pentagram)**Pentagram Design —** [@pentagram](https://twitter.com/pentagram)
 
-I[f you believe we’ve overlooked a gem, don’t hesitate to tag them under the shared tweet of this post on our twitter account!](https://twitter.com/usemuzli)
+If you believe we’ve overlooked a gem, don’t hesitate to tag them under the shared tweet of this post on our [twitter account!](https://twitter.com/usemuzli)
 
 
 
