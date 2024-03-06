@@ -257,7 +257,7 @@ However, if you believe we’ve overlooked a gem, don’t hesitate to tag them u
 [<img height="158" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*5PaUu9SkjpEGv2wxta_5Mw.png" />](https://twitter.com/ImNidiaDias)**Nidia Dias —** [@ImNidiaDias](https://twitter.com/ImNidiaDias)
 
 ---
-[<img height="158" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*vca4RuFoTGV4xf1TR9rZmg.png" />](https://twitter.com/jamesowencohttps://twitter.com/jamesowenco)**James Owen —** [@jamesowenco](https://twitter.com/jamesowenco)
+[<img height="158" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*vca4RuFoTGV4xf1TR9rZmg.png" />](https://twitter.com/jamesowenco)**James Owen —** [@jamesowenco](https://twitter.com/jamesowenco)
 
 ---
 [<img height="158" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*CyWP2kOfjPSr58gHuGGagw.png" />](https://twitter.com/jkane)**Jordan Jenkins —** [@jkane](https://twitter.com/jkane)
@@ -456,9 +456,6 @@ However, if you believe we’ve overlooked a gem, don’t hesitate to tag them u
 
 ---
 [<img height="158" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*C7BnAXnqvDaHKx2K39nnCw.png" />](https://twitter.com/mymodernmet)**My Modern Met —** [@mymodernmet](https://twitter.com/mymodernmet)
-
----
-[<img height="158" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*21xcO_cmumPWftKVob23uw.png" />](https://twitter.com/designmilk)**Design Mil k —** [@designmilk](https://twitter.com/designmilk)
 
 ---
 [<img height="158" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*xT2k58zWjyBBV2wv4nX_4Q.png" />](https://twitter.com/CreativeReview)**Creative Review —** [@CreativeReview](https://twitter.com/CreativeReview)
