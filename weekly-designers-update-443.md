@@ -100,38 +100,29 @@ Turn any image into stunning line pattern supa fast. Give your designs a fresh n
 
 
 
-<img height="875" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*gQMARmICHVdH8bG-" />
-PelaBank Mobile Banking Interface by [Hossein Moradi](https://flames.design/mhmoradii)
+<img height="875" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*gQMARmICHVdH8bG-" />PelaBank Mobile Banking Interface by [Hossein Moradi](https://flames.design/mhmoradii)
 
 ---
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*2ausGqNSy7Z2yoL-" />
-Dynamic 365 CRM — Sales Accelerator Dashboard by [Jack R.](https://dribbble.com/jack-ux-ui-design) for [RonDesignLab](https://dribbble.com/RonDesignLab)
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*2ausGqNSy7Z2yoL-" />Dynamic 365 CRM — Sales Accelerator Dashboard by [Jack R.](https://dribbble.com/jack-ux-ui-design) for [RonDesignLab](https://dribbble.com/RonDesignLab)
 
 ---
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*t-B6x265X_wm72yi" />
-CashCraft — Money Management App by [Royhan Muhammad](https://flames.design/royhanmk)
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*t-B6x265X_wm72yi" />CashCraft — Money Management App by [Royhan Muhammad](https://flames.design/royhanmk)
 
 ---
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*hpfFgJJERjVS1IUX" />
-Modern Email App Interface on Smartphone by [Inthi](https://flames.design/inthikhab)
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*hpfFgJJERjVS1IUX" />Modern Email App Interface on Smartphone by [Inthi](https://flames.design/inthikhab)
 
 ---
-<img height="700" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*YwtBBFER9m2do34z" />
-Stylized Design Mockup with Pastel Accents by [Not Real](https://flames.design/notrealtv)
+<img height="700" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*YwtBBFER9m2do34z" />Stylized Design Mockup with Pastel Accents by [Not Real](https://flames.design/notrealtv)
 
 ---
-<img height="700" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*FA4oudWRxWVIl4oS" />
-Vibrant Beverage Cans in Ice Cooler by [patswerk](https://flames.design/patswerk)
+<img height="700" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*FA4oudWRxWVIl4oS" />Vibrant Beverage Cans in Ice Cooler by [patswerk](https://flames.design/patswerk)
 
 ---
-<img height="466" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*o6irqARcaJTob2e_DOtrrA.png" />
-TAC! Festival Branding by [The Woork](https://www.behance.net/thewoork)
+<img height="466" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*o6irqARcaJTob2e_DOtrrA.png" />TAC! Festival Branding by [The Woork](https://www.behance.net/thewoork)
 
 ---
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*NblAz8lntOqkEc8A" />
-El Santo by [VAGO](https://dribbble.com/V-a-g-o)
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*NblAz8lntOqkEc8A" />El Santo by [VAGO](https://dribbble.com/V-a-g-o)
 
 ---
-<img height="452" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*M8AgeLu0WSgFZ_GD0C9rkQ.png" />
-Exploration in texture and color by [Conrad Garner](https://www.behance.net/ConradG)
+<img height="452" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*M8AgeLu0WSgFZ_GD0C9rkQ.png" />Exploration in texture and color by [Conrad Garner](https://www.behance.net/ConradG)
 
