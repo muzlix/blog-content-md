@@ -70,7 +70,7 @@ Designed for ease of use, this user-friendly app is readily accessible from with
 [Stable Doodle](https://clipdrop.co/stable-doodle) is a cutting-edge sketch-to-image tool powered by Stability AI, designed to transform sketches and drawings into incredible art or photos. 
 It utilizes the advanced Stable Diffusion XL image generating technology along with the T2I-Adapter, a condition control solution developed by Tencent ARC, for precise AI image generation. 
 
-<iframewidth="100%" height="100%" class="w-full min-h-[400px]" src="https://www.youtube.com/embed/eYKp39kgQyw?si=_d9GsAetH4C_8Jk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="100%" class="w-full min-h-[400px]" src="https://www.youtube.com/embed/eYKp39kgQyw?si=_d9GsAetH4C_8Jk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The tool features a simple drawing interface and allows users to create basic sketches, choose an art style, and generate visually appealing concept drawings. Stable Doodle is available on the Clipdrop website and app, offering both free and paid options, and aims to cater to a wide range of users, from novices to professionals​
 
