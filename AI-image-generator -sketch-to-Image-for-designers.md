@@ -3,7 +3,7 @@ title: 'AI image generator - Sketch-to-Image for designers'
 description: 'Powered by ever-evolving algorithms, AI image generators harness the vast potential of machine learning to generate high-quality images from basic sketches.'
 draft: false
 date: '2024-03-11'
-image: 'https://cdn-images-1.medium.com/max/1200/0*Z0MfXgagxLcAhmIZ'
+image: 'https://cdn-images-1.medium.com/max/1200/1*jTTa5P9rImCzd__578uMSQ.png'
 ---
 
 

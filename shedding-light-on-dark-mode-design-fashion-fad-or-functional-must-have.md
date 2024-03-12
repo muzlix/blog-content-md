@@ -28,6 +28,7 @@ On the contrary, a poor example of dark mode implementation might be seen in a b
 
 
 ## Show me the (Dark) Money
+<br />
 
 <img height="393" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*zkEqgE7FZGCpWWW4MkhjMA.png" />
 
@@ -35,7 +36,7 @@ So, the real question is: To Dark Mode or not to Dark Mode? To answer this, let�
 
 Certainly, I’d love to expand on those points for you.
 
-## Pros:
+### Pros:
 
 **1. Reduce Eye Strain**: Dark mode is known for significantly lowering eye strain, particularly in low-light conditions. Late night web surfers and after-dark app users can heave a sigh of relief — no more squinting at brilliant white screens!
 
@@ -47,7 +48,7 @@ Certainly, I’d love to expand on those points for you.
 
 **5. Market Appeal:** Dark mode isn’t just power-efficient and easier on the eyes, it can also be a total eye candy! A sleek, striking, and sexy interface can be a powerful tool to attract and retain users.
 
-## Cons:
+### Cons:
 
 **1. Legibility Issues:** While dark mode can ease eye strain, it doesn’t always guarantee easy readability. Contrast between the text and background needs careful calibration, otherwise, the text may become hard to decipher, causing user discomfort. A classic example is Google’s Calendar app, where the dark mode has made it harder to distinguish between past and upcoming events.
 
@@ -60,6 +61,7 @@ Certainly, I’d love to expand on those points for you.
 **5. Outdoor Visibility:** Outdoor lighting conditions can pose a challenge for dark mode users. In bright sunlight, it can be hard to see and work on a dark screen as it introduces heavy screen glare. The contrast issue also becomes prominent as it becomes tough to distinguish different elements on the screen. This means that if your users are frequently outdoors, they might not be as thrilled with the dark mode.
 
 ## Summing it up — The Dark Mode Playbook
+<br />
 
 <img height="363" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*A75fQTiBvKfUHBUsxS-uhQ.png" />
 
@@ -84,4 +86,4 @@ In any case, this entire post was actually an excuse to tell you that we have a 
 
 [<img height="341" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*hx6sCR3GxnL7kWu1j95aMw.png" />](https://colors.muz.li/ai-color-combination-generator/)
 
-Enjoy!
+**Enjoy!**
