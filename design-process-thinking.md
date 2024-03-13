@@ -12,12 +12,12 @@ Design Process Thinking is a human-centric approach to problem-solving that emph
 
 ### TL;DR
 
-1. User needs research
-2. Analyze observations
-3. Ideate
-4. Prototype
-5. Test
-6. Iterate
+1. **User needs research**
+2. **Analyze observations**
+3. **Ideate**
+4. **Prototype**
+5. **Test**
+6. **...Iterate**
 
 ## Stage 1: Research Your Users’ Needs
 
