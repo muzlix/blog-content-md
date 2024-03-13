@@ -107,4 +107,6 @@ Iteration is, therefore, not just a phase but a mindset that permeates the Desig
 
 Design Thinking is a human-centric, iterative approach to problem-solving that prioritizes empathy, creativity, and iterative learning to develop solutions that deeply resonate with users.
 
+<img src="https://cdn-images-1.medium.com/max/1600/1*b3KgP8I1XjQPZgWRuBVPCg.png" alt="Design Process Thinking cycle" />
+
 The Design Thinking process is a powerful framework for tackling complex problems, characterized by its user-centric focus and iterative approach. By empathizing with users, defining problems clearly, generating innovative solutions, and continuously refining these solutions based on real-world feedback, teams can develop products and services that truly meet user needs and enhance their lives.
