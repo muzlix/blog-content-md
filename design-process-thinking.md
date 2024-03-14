@@ -2,7 +2,7 @@
 title: 'Design Process Thinking - a human-centric approach to problem solving'
 description: 'The essential stages of design thinking process'
 draft: false
-date: '2024-03-14'
+date: '2024-03-13'
 image: 'https://miro.medium.com/v2/resize:fit:2000/format:webp/1*UqagF6jsfNUHbu70tTWltQ.png'
 ---
 
