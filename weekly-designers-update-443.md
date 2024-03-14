@@ -1,5 +1,5 @@
 ---
-title: 'Weekly Designers Update ##443'
+title: 'Weekly Designers Update #443'
 description: 'Web design inspiration, weekly recap'
 draft: false
 date: '2024-03-07'
