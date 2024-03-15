@@ -88,7 +88,7 @@ Lato is a versatile and modern sans-serif font that is widely used for its reada
 Tangerine is a stylish script font that exudes elegance and sophistication. It is perfect for adding a sense of refinement and luxury to your designs, particularly for headings and decorative purposes---[<img height="350" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*GyTZQlWhgOs-nTTZDrU4NA.png" />](https://fonts.google.com/specimen/Tangerine?query=Tangerine)
 
 ---
-## Free Google Fonts for Logos:
+## Free Google Fonts for Logos
 
 
 ### [Lobster](https://fonts.google.com/specimen/Lobster?query=Lobster)
