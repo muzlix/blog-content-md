@@ -3,7 +3,7 @@ title: 'Exploring the Depth of Design: Principles Driving Innovative Products'
 description: 'In the dynamic world of product design, principles are the guiding stars that navigate the journey from a concept to a tangible reality.'
 draft: false
 date: '2024-01-03'
-image: 'https://s3.amazonaws.com/bobo.muzli.cloud/1705314746852-principles-min.png'
+image: 'https://bobo.muzli.cloud/1705314746852-principles-min.png'
 ---
 
 
