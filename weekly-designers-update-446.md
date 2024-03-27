@@ -4,8 +4,8 @@ description: 'Web design inspiration, weekly recap'
 draft: false
 date: '2024-03-27'
 image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FHvp0qx4HjFyCcYR6TCA5A.png'
-
 ---
+
 ## Web design inspiration
 
 ### [Merriment](https://merriment.info/?utm_source=extension\&utm_medium=click\&utm_campaign=muzli)
@@ -23,10 +23,9 @@ image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FHvp0qx4HjFyCcY
 [<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*F-HhBnXjsYS3p4qO.png" />](https://wild-memory-radio.wetransfer.com/?utm_source=extension\&utm_medium=click\&utm_campaign=muzli)
 
 ---
-## [Celebrating 300 Issues Of ’10 Things’ By Your Majesty](https://s.muz.li/go?link=https%3A%2F%2F300.yourmajesty.co%2F\&post=64fbbdc0c97195f91cf40ac9bfd88b1a)
+### [Celebrating 300 Issues Of ’10 Things’ By Your Majesty](https://s.muz.li/go?link=https%3A%2F%2F300.yourmajesty.co%2F\&post=64fbbdc0c97195f91cf40ac9bfd88b1a)
 
 
----
 <img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*KfNFJl-WYx_XUxkW.png" />
 
 ---
@@ -38,8 +37,6 @@ image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FHvp0qx4HjFyCcY
 [<img height="326" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*yqTi23dYhz3GutmOMvcrRw.png" />](https://muz.li/)
 
 ## Design Resources
-
-
 
 ### [Expenses 3D Icons](https://ui8.net/konstantin-kapustin-231ca9/products/expenses-3d-icons?rel=muzli)
 
@@ -92,11 +89,8 @@ This plugin allows you to generate a typography style guide based on your define
 
 
 
+## Design inspiration
 
-
-
-
----
 <img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*1YCsAetaqSx1TQSX" />Financial Security App by [tubik UX](https://dribbble.com/tubik_ux)
 
 ---
