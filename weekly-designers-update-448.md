@@ -54,6 +54,7 @@ UI-win: Your all-in-one solution for atomic design systems and UI kits
 
 [<img height="529" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*HLMb9OfnzMrwR5gV.jpg" />](https://ui8.net/ulvin-omarov-4ddec9/products/ddsd?rel=muzli)
 
+---
 ### [Liqunium — Device Mockups](https://ui8.net/impro-studio/products/liqunium---device-mockups?rel=muzli)
 
 9 Unique Glass Scenes Mockup for visual branding and identity
@@ -65,7 +66,6 @@ UI-win: Your all-in-one solution for atomic design systems and UI kits
 ### [ApexPro — AI Startup FramerTemplate](https://www.framer.com/templates/apexpro/?via=usemuzli)
 
 Empower your AI startup with ApexPro — a sleek, original website template designed for success. Elevate your brand and captivate investors effortlessly
----
 [<img height="387" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*lAj7QIY8EiGXM8qi.png" />](https://www.framer.com/templates/apexpro/?via=usemuzli)
 
 
@@ -73,7 +73,6 @@ Empower your AI startup with ApexPro — a sleek, original website template desi
 ### [Gemstone — Modern Waitlist Template](https://www.framer.com/templates/gemstone/?via=usemuzli)
 
 Gemstone is a sleek and modern template designed for crafting an exclusive waitlist for your future endeavors
----
 [<img height="475" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*dBwV_W-mIXBymoEU.jpg" />](https://www.framer.com/templates/gemstone/?via=usemuzli)
 
 ## Product Spotlight
@@ -83,7 +82,7 @@ Gemstone is a sleek and modern template designed for crafting an exclusive waitl
 
 Customize and manage any end-to-end creative workflow
 faster and more effectively than ever before
----
+
 [<img height="368" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*YICthH-xIFvZ-bCX" />](https://frame.io/v4?ref=muzli2024)
 
 
@@ -91,17 +90,15 @@ faster and more effectively than ever before
 ### [Odaptos — Usability Testing through Artificial Intelligence](https://odaptos.com/?ref=muzli2024)
 
 Explore your users’ feelings and emotions , enhance the user experience, and fast-track your user test process with our advanced analysis technology
----
 [<img height="434" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*y-yh06B5K1kSGrfTMxRXng.png" />](https://odaptos.com/?ref=muzli2024)
 
 
 ---
 ### [Atomize Design System](https://atomizedesign.com/?ref=muzli2024)
 
-**The most advanced Design System for Figma**
+The most advanced Design System for Figma
 
 Atomize empowers designers to create modern and visually appealing user interfaces and websites, while eliminating tedious tasks
----
 [<img height="393" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*Ql7fy7MbRJHfiGBcYWgaQQ.png" />](https://atomizedesign.com/?ref=muzli2024)
 
 
