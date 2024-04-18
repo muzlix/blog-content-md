@@ -59,7 +59,6 @@ Figma IOS Design system
 ### [Tomorrow — Modern Agency Framer Template](https://www.framer.com/templates/tomorrow/?via=usemuzli)
 
 Upgrade your workflow with Tomorrow, the premium Framer template. With its modern design, customization options, and powerful components, Tomorrow is the perfect tool to enhance your projects. Experience the best with Tomorrow
----
 [<img height="475" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*kNabYua71XbOHL4Z.jpg" />](https://www.framer.com/templates/tomorrow/?via=usemuzli)
 
 
