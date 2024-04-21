@@ -7,9 +7,8 @@ image: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*aLxJou7OBO8WbMtD
 ---
 
 
-<img height="51" style="vertical-align: middle; width:48px;height: 51px;display: inline;min-width: 0;border-radius: 100%;"  width="48" src="https://miro.medium.com/v2/resize:fill:88:88/1*BF1-rRvB-fbXUKVOozXgdw.jpeg" /> Article by  [Letitia Rohaise](https://medium.com/@letitiarohaise)
+<img height="51" style="vertical-align: middle; width:48px;height: 48px;display: inline;min-width: 0;border-radius: 100%;"  width="48" src="https://miro.medium.com/v2/resize:fill:88:88/1*BF1-rRvB-fbXUKVOozXgdw.jpeg" /> Article by  [Letitia Rohaise](https://medium.com/@letitiarohaise)
 
----
 When searching for resources on UX and AI, I found it surprisingly difficult to find any writing beyond advice and software to make the design process more efficient. While efficiency tips are valuable — don’t get me wrong- my deeper interest lies in understanding how designing with and for AI systems will shape the very foundations of UX.
 
 After doing some research and taking a very useful course pitched for developers and not designers: “[UX for AI: Design Practices for AI Developers](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers)”, I wanted to share my findings, stripping away the jargon and technical terminology that often excludes designers from the conversation.
@@ -24,7 +23,7 @@ However, AI introduces an element of unpredictability, challenging us to design 
 
 In this new context, designers are tasked with embracing an adaptive design, one that responds to AI’s fluidity in the same way that responsive design responds to different screen sizes. This adaptation will mean dynamic interfaces that can intelligently respond to AI’s unpredictable outputs — probably using AI themselves. We will no longer be designing for fixed pathways but a landscape where user flows are fluid and outcomes unknown. This transition is paradoxical: As the role of AI grows, maintaining consistency in design becomes both increasingly critical and complex. We are challenged to redefine our strategies, ensuring that despite the unpredictability of AI, the principle of consistency remains at the heart of user-centred design.
 
-<img height="394" width="700" alt="A collage image with an old computer in the middle. Once side reads “Before Ai: Deterministic, Precise, Predicatable, Static.” the other side “After AI: Probalistic, Variable, Unique and Adaptive”." src="https://miro.medium.com/v2/resize:fit:700/1*jBAxVr5gEn_5PJB9tZH1HA.png" />Image by Author, made on Canva. Based on a slide from [UX for AI: Design Practices for AI Developers](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers)
+<img height="394" width="700" alt="A collage image with an old computer in the middle. Once side reads “Before Ai: Deterministic, Precise, Predicatable, Static.” the other side “After AI: Probalistic, Variable, Unique and Adaptive”." src="https://miro.medium.com/v2/resize:fit:700/1*jBAxVr5gEn_5PJB9tZH1HA.png" />*Image by Author, made on Canva. Based on a slide from [UX for AI: Design Practices for AI Developers](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers)*
 
 ## Redefining User Trust
 
@@ -40,7 +39,7 @@ In sociology, trust is based on the expectation that the trustee (the AI system)
 
 For some designers, introducing friction is not alien and has been a way to create an immersive experience, much like [‘The Ikea Effec](https://marvelapp.com/blog/design-principle-ikea-effect/#:~\:text=IKEA%20effect%20in%20your%20design\&text=People%20are%20willing%20to%20pay,won't%20complete%20the%20task.)t’. The idea here is keeping the user more engaged. Although our primary aim might not be to create immersion per se, our objective aligns with it: to heighten user engagement, ensuring they are alert and can identify when AI does not meet expected standards. A[ppnova explores 5 simple ways friction can be a game-changer in design](https://medium.com/@appnova/5-simple-ways-friction-in-design-can-be-a-game-changer-for-ux-5e3f7bf2d1ad), from preventing bad decisions to giving user responsibility.
 
-<img height="394" width="700" alt="A collage diagram titled “5 ways in which friction is a game-changer in UX”. 1. Prevents bad decisions 2. It can help sell 3. Makes long processes feel shorter 4. Prevents accidental transactions 5. Teachers responsibility." src="https://miro.medium.com/v2/resize:fit:700/1*hijd6fI0QKWCP4VMR48nyA.png" />Image by Author, made on Canva. Based on “[5 simple ways friction can be a game-changer in design](https://medium.com/@appnova/5-simple-ways-friction-in-design-can-be-a-game-changer-for-ux-5e3f7bf2d1ad)”
+<img height="394" width="700" alt="A collage diagram titled “5 ways in which friction is a game-changer in UX”. 1. Prevents bad decisions 2. It can help sell 3. Makes long processes feel shorter 4. Prevents accidental transactions 5. Teachers responsibility." src="https://miro.medium.com/v2/resize:fit:700/1*hijd6fI0QKWCP4VMR48nyA.png" />*Image by Author, made on Canva. Based on “[5 simple ways friction can be a game-changer in design](https://medium.com/@appnova/5-simple-ways-friction-in-design-can-be-a-game-changer-for-ux-5e3f7bf2d1ad)”*
 
 Some ways in which we can create friction for a more engaged experience include AI notices and prompts. Here, AI notices refer to the use of visual cues or contextual signals that indicate AI-generated content, prompting users to review AI outputs. This simple moment of reflection can have a big impact.
 
