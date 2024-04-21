@@ -17,17 +17,20 @@ Advanced Figma features can save designers hours of work. If you’re still drag
 Figma has just launched a new multi-edit feature for variants, making component editing a breeze. Just pick a variant or a nested layer and use Multi-edit variants in the toolbar, or press Q on your keyboard (remember not to press cmd+Q on Mac!). In multi-edit mode, changes to one variant, like text, icons, or size adjustments, automatically update all variants in the component group.
 
 <iframe src="https://player.vimeo.com/video/934554656?h=c53c69d1c9&color=FC4A22" width="640" height="373" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/934554656">1 - Variables multi edit</a> from <a href="https://vimeo.com/spaceberry">Spaceberry Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## **Select matching objects**
 
 Editing matching objects in a section is now as easy as editing components! Just select an object within a frame or group at the top level of the canvas or inside a section. Then, click “Select matching layers” in the top toolbar or use the shortcut: ⌥ Option + ⌘ Cmd + A for Mac; Alt + Ctrl + A for Windows. All selected objects will be surrounded by a blue bounding box, allowing you to edit them collectively.
+
+<iframe src="https://player.vimeo.com/video/934554669?h=3989170e4c" width="640" height="373" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 **💡 Tip:** You can preview matching objects before selecting them by pressing Shift while selecting one element. Additionally, you can manually select them while holding Shift, eliminating the need to double-click deeply nested objects within groups or frames.
 
 ## **Hold and slide to hide or lock layers**
 
 It turns out, that to lock/unlock multiple layers, you don’t have to click on each one individually. We can lock one layer and then drag it with the mouse key held down across the layers list to apply this action to other layers. It’s also working for hiding layers.
+
+<iframe src="https://player.vimeo.com/video/934554689?h=87b1495e73" width="640" height="403" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## **Copy and paste properties between layers**
 
@@ -36,7 +39,11 @@ You can easily copy fill, stroke, and text properties between layers using the r
 * On Mac: Copy properties — ⌥ Option + ⌘ Cmd + C; Paste properties — ⌥ Option + ⌘ Cmd + V.
 * On Windows: Copy properties — Ctrl + Alt + C; Paste properties — Ctrl + Alt + V.
 
+<iframe src="https://player.vimeo.com/video/934554702?h=282d6d8a22" width="640" height="403" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 **💡 Tip:** You can copy only the fill property if it’s not a style or variable. Simply left-click on the fill property and then use cmd+c/cmd+v on Mac or ctrl+c/ctrl+v on Windows to paste it onto the selected layer.
+
+<iframe src="https://player.vimeo.com/video/934554731?h=d5f7acf5dc" width="640" height="403" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## **Rename layers in bulk**
 
@@ -51,7 +58,12 @@ Alternatively, right-click on the layers in the panel and choose “Rename”.
 
 From this window, you can rename all the selected layers at the same time.
 
+<iframe src="https://player.vimeo.com/video/934554741?h=f46eb7aa36" width="640" height="349" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
 If you already have a unique name for layers but want to include additional suffixes or prefixes in the layer names, you can simply attach them to the existing name, as shown below:
+
+<iframe src="https://player.vimeo.com/video/934554771?h=98b008f454" width="640" height="349" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 You can also delete or modify existing parts of the name. The “Match” field enables you to specify which portion of the layer’s name you wish to modify.
 
@@ -59,15 +71,21 @@ Leaving this field blank allows you to alter the entire name. However, you can a
 
 To do this, enter the part of the name you want to replace in the “Match” field, and in the “Rename to” field, enter what you want to replace this part with or leave it blank to delete. The other part of the name not specified in the “Match” field will remain unchanged.
 
+<iframe src="https://player.vimeo.com/video/934554794?h=374050913a" width="640" height="349" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## **Use Tab to autocorrect typos**
 
 Spell check finds and corrects spelling mistakes. It displays red squiggly lines under errors while you’re editing text. If you spot a mistake, simply select the word and press Tab to fix it with the first suggestion from the spell checklist. Our designers think Figma’s spell check could be better, but we hope they improve it in future updates.
 
 **💡 Tip:** if you often find yourself distracted by the error highlights, you can disable them in the Figma > Text > Spell Check menu.
 
+<iframe src="https://player.vimeo.com/video/934554816?h=5fe0cc9746" width="640" height="327" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## **Use math inside Figma fields**
 
 Mathematical expressions on Figma are the functions we can’t work without. It’s a feature that (almost) everyone knows about. But it’s worth reminding, especially for those still reaching for their phone calculator to figure out element widths. All numeric values in Figma’s sidebar can be calculated on the fly. You can apply addition, subtraction, division, and multiplication right in the input field. That’s how simple it is!
+
+<iframe src="https://player.vimeo.com/video/934554848?h=da410261c1" width="640" height="411" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## **Align like a pro**
 
@@ -75,15 +93,22 @@ We find it challenging to remember all the alignment shortcuts, especially now t
 
 **💡 Tip:** Figma’s tooltips show shortcuts when you hover over alignment settings in the sidebar, which is handy if you forget.
 
+<iframe src="https://player.vimeo.com/video/934554858?h=0a6fa93b77" width="640" height="370" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
 <img height="492" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*W6Sf1MxLmJRo5HCL" />
 
 ## **Variables bulk edit**
 
 Before discovering how to bulk edit variables, it was challenging. Attempting to select them using “Shift” only opened the menu for one variable when clicking “Edit,” which seemed like a mistake on Figma’s part. However, right-clicking on a variable revealed the option for bulk actions.
 
+<iframe src="https://player.vimeo.com/video/934554874?h=c9c56f25cd" width="640" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## **Collapse nested layers**
 
 When working with projects with lots of nesting, open layers can be frustrating. Fortunately, Figma has a solution. Just hold down the “Option” key while collapsing layers in the side menu to collapse all nested layers with one click. And for expanding, it’s the same trick — hold down “Option” to open all nested groups and frames.
+
+<iframe src="https://player.vimeo.com/video/934554885?h=58772d077b" width="640" height="396" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Finale Note
 
