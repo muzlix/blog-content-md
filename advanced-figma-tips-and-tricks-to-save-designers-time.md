@@ -95,7 +95,7 @@ We find it challenging to remember all the alignment shortcuts, especially now t
 <iframe src="https://player.vimeo.com/video/934554858?h=0a6fa93b77" width="640" height="370" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
-<img height="492" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*W6Sf1MxLmJRo5HCL" />
+<p><img height="492" width="" src="https://miro.medium.com/v2/resize:fit:700/0*W6Sf1MxLmJRo5HCL" /></p>
 
 ## **Variables bulk edit**
 
