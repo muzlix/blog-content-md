@@ -3,7 +3,7 @@ title: 'Advanced Figma tips and tricks to save designers time'
 description: 'We’ve compiled new Figma functionalities and old methods — perhaps you’ve missed something?'
 draft: false
 date: '2024-04-21'
-image: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0TKsZSp3NgX1yKm-U5EKQ.jpeg'
+image: 'https://miro.medium.com/v2/resize:fit:1600/format:webp/1*x0TKsZSp3NgX1yKm-U5EKQ.jpeg'
 ---
 
 

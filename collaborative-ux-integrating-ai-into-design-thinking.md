@@ -3,7 +3,7 @@ title: 'Collaborative UX: Integrating AI into design thinking'
 description: 'By exploring how AI might change the foundations of UX, we advocate for a more collaborative framework where designers, engineers and AI work together.'
 draft: false
 date: '2024-04-17'
-image: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*aLxJou7OBO8WbMtDDpVP2g.png'
+image: 'https://miro.medium.com/v2/resize:fit:1600/format:webp/1*aLxJou7OBO8WbMtDDpVP2g.png'
 ---
 
 
