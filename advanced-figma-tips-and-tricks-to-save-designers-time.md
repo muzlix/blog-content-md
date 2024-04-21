@@ -7,8 +7,7 @@ image: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*x0TKsZSp3NgX1yKm
 ---
 
 
----
-<img height="51" style="verticl-align:middle" width="48" src="https://miro.medium.com/v2/resize:fit:180/1*7UheUilNg7-vWrGelxdvAw.png" /> In collaboration with [Spaceberry - UI/UX Design Studio](https://spaceberry.studio/?utm_source=Medium&utm_medium=referral&utm_campaign=profile)
+<img height="51" style="verticl-align: middle; width:48px;height: 51px;display: inline;"  width="48" src="https://miro.medium.com/v2/resize:fit:180/1*7UheUilNg7-vWrGelxdvAw.png" /> Article by  [Spaceberry - UI/UX Design Studio](https://spaceberry.studio/?utm_source=Medium&utm_medium=referral&utm_campaign=profile)
 
 ---
 Advanced Figma features can save designers hours of work. If you’re still dragging your cursor to the top corner of the screen to create sections or manually locking layers one by one, this article is definitely for you. We’ve compiled new Figma functionalities and old methods — perhaps you’ve missed something?
