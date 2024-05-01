@@ -7,7 +7,7 @@ image: 'https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xwz1f1U37yWMwzU
 ---
 
 
-<img height="51" style="vertical-align: middle; width:48px;height: 51px;display: inline;min-width: 0;"  width="48" src="https://miro.medium.com/v2/resize:fill:176:176/1*-_GsYtw6YHjAoukgYk02IQ.png" /> Article by  [DESH Team](https://desh.team/?utm_source=Medium&utm_medium=referral&utm_campaign=profile)
+<img height="51" style="vertical-align: middle; width:50px;height: 50px;display: inline;min-width: 0;border-radius:100%;"  width="48" src="https://miro.medium.com/v2/resize:fill:176:176/1*-_GsYtw6YHjAoukgYk02IQ.png" /> Article by  [DESH Team](https://desh.team/?utm_source=Medium&utm_medium=referral&utm_campaign=profile)
 
 Today, we’re thrilled to share the story of our team at [desh.team](https://desh.team/) as we developed an online course platform for ClassPulse University. This innovative learning hub offers access to a diverse range of courses and materials designed for those eager to enhance their skills and take their careers to new heights.
 
