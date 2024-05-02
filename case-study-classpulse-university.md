@@ -38,7 +38,7 @@ Typography plays a vital role, selected for its readability and friendly aesthet
 
 When it comes to form, elements with rounded corners exude a sense of sophistication compared to sharp, rectangular shapes, adding to the overall sleek design.
 
-<img height="880" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*tsf_IIG2nLvH2jE-O3xqsA.png" />
+<img height="880" width="1000" class="md:wideImg"  src="https://miro.medium.com/v2/resize:fit:1000/1*tsf_IIG2nLvH2jE-O3xqsA.png" />
 
 A bright and airy home page layout enables effective integration of various types of content. This includes a comprehensive list of all courses, strategically utilizing accent colors to highlight the most popular ones. Additionally, showcasing students’ progress in their studies serves to boost motivation.
 
