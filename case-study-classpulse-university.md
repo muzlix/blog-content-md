@@ -25,7 +25,7 @@ By blending visually captivating design elements, intuitive navigation, and enga
 
 Working closely with clients who possess a deep understanding of their audience and desires, we meticulously analyze the current user experience and competitors. Through collaborative efforts between our creative team and the clients, we develop a platform aligned with user goals and desires.
 
-<img height="584" width="1000" src="https://miro.medium.com/v2/resize:fit:1000/1*bXqul05nji6vjXjvuDI4SA.png" />
+<img height="584" width="1000" class="md:wideImg" src="https://miro.medium.com/v2/resize:fit:1000/1*bXqul05nji6vjXjvuDI4SA.png" />
 
 Our design philosophy was straightforward: simplicity and modernity. We focused on minimalist designs to highlight key information without overwhelming users.
 
