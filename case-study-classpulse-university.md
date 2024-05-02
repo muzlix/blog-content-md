@@ -3,7 +3,7 @@ title: 'Case study: ClassPulse University'
 description: 'Today, we’re thrilled to share the story of our team at desh.team as we developed an online course platform for ClassPulse University.'
 draft: false
 date: '2024-05-01'
-image: 'https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xwz1f1U37yWMwzUXrfC4DQ.png'
+image: 'https://bobo.muzli.cloud/ClassPulse-University.png'
 ---
 
 
