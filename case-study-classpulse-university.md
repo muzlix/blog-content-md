@@ -25,7 +25,7 @@ By blending visually captivating design elements, intuitive navigation, and enga
 
 Working closely with clients who possess a deep understanding of their audience and desires, we meticulously analyze the current user experience and competitors. Through collaborative efforts between our creative team and the clients, we develop a platform aligned with user goals and desires.
 
-<img height="584" width="1000" class="md:wideImg" src="https://miro.medium.com/v2/resize:fit:1000/1*bXqul05nji6vjXjvuDI4SA.png" />
+<img height="584" width="1000" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1000/1*bXqul05nji6vjXjvuDI4SA.png" />
 
 Our design philosophy was straightforward: simplicity and modernity. We focused on minimalist designs to highlight key information without overwhelming users.
 
@@ -38,7 +38,7 @@ Typography plays a vital role, selected for its readability and friendly aesthet
 
 When it comes to form, elements with rounded corners exude a sense of sophistication compared to sharp, rectangular shapes, adding to the overall sleek design.
 
-<img height="880" width="1000" class="md:wideImg"  src="https://miro.medium.com/v2/resize:fit:1000/1*tsf_IIG2nLvH2jE-O3xqsA.png" />
+<img height="880" width="1000" class="wideImg"  src="https://miro.medium.com/v2/resize:fit:1000/1*tsf_IIG2nLvH2jE-O3xqsA.png" />
 
 A bright and airy home page layout enables effective integration of various types of content. This includes a comprehensive list of all courses, strategically utilizing accent colors to highlight the most popular ones. Additionally, showcasing students’ progress in their studies serves to boost motivation.
 
