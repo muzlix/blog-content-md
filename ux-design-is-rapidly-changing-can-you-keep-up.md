@@ -7,7 +7,7 @@ image: 'https://miro.medium.com/v2/resize:fit:3840/format:webp/1*JbePCKhK34ckpKF
 ---
 
 
-<img height="51" style="vertical-align: middle; width:50px;height: 50px;display: inline;min-width: 0;border-radius:100%;"  width="48" src="https://miro.medium.com/v2/resize:fill:88:88/1*nqaMr-ZyGH9A8kk8RzbQcg.png" /> Article by  [Punit Chawla](https://desh.team/?utm_source=Medium&utm_medium=referral&utm_campaign=profile)
+<img height="51" style="vertical-align: middle; width:50px;height: 50px;display: inline;min-width: 0;border-radius:100%;"  width="48" src="https://miro.medium.com/v2/resize:fill:88:88/1*nqaMr-ZyGH9A8kk8RzbQcg.png" /> Article by  [Punit Chawla](https://medium.com/@punitweb?utm_source=Medium&utm_medium=referral&utm_campaign=profile)
 
 UX design is a profession that was introduced to help companies solve problems creatively. However, it has taken an all-new avatar in the past 2 years. It is frightening and exciting at the same time! Through this article, I wish to clear out some of the fog and be your industry insider.
 
