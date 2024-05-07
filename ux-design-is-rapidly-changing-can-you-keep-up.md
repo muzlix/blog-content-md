@@ -13,7 +13,7 @@ UX design is a profession that was introduced to help companies solve problems c
 
 ## The Starting Point Has Shifted
 
-<img height="460" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*WytZuLSx4XtOcuP9OktCYA.jpeg" />[Austris Augusts](https://unsplash.com/@austris_a) on Medium
+<img height="460" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*WytZuLSx4XtOcuP9OktCYA.jpeg" />[Austris Augusts](https://unsplash.com/@austris_a) on Medium
 
 We’ve all noticed shifts in where UX designers are starting their careers. Earlier this meant teaching yourself design from YouTube and articles listed on Google. This journey was made even easier with short and cheap courses online.
 
@@ -27,13 +27,13 @@ It’s much more product-focused and action-oriented. If you want to ace an inte
 
 When it comes to educating yourself in the skill set, you need to find material and resources that take you further than UX itself. You need to find elements of the CX (customer experience) process, such as the CES (customer effort score) which allows designers to get quick feedback for the product’s UX as well.
 
-<img height="394" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*C0Orb8thRosMGvzuyUVHSA.png" />CES on a clothing website
+<img height="394" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*C0Orb8thRosMGvzuyUVHSA.png" />CES on a clothing website
 
 Things don’t end here, of course. Creative companies are looking for even more creative people. So, if at one end you’re great at solving business problems, being equally creative has become a must for the job. Apart from the science behind how a user uses a product, it is equally valuable to know how to “wow” the user with the creative aspects of the product. Adding **delight** is the best way I could describe this phenomenon.
 
 ## Parallel Skills Are Becoming More Valuable
 
-<img height="464" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*LNGUzxVNxdZ9avIy0dXjlA.jpeg" />[Tomas Sobek](https://unsplash.com/@tomas_nz) on Medium
+<img height="464" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*LNGUzxVNxdZ9avIy0dXjlA.jpeg" />[Tomas Sobek](https://unsplash.com/@tomas_nz) on Medium
 
 I still remember when I started practising UX design for the first time. We were inspired to have tunnel vision and focus solely on UX research, testing, design, and most importantly — empathy.
 
@@ -45,7 +45,7 @@ In 2024, parallel skills have become more crucial than ever. Organisations appre
 
 ## Studio Secrets I Probably Shouldn’t Share
 
-<img height="415" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*xSNydHxLpWMOOd5y4nM3zA.jpeg" class="wideImg" />[baikang yuan](https://unsplash.com/@holypatt) on Medium
+<img height="415" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*xSNydHxLpWMOOd5y4nM3zA.jpeg" class="wideImg" />[baikang yuan](https://unsplash.com/@holypatt) on Medium
 
 > Clients want studios to package in UX design, graphics, marketing, development, and more in to one service.
 
@@ -53,13 +53,13 @@ As an educator and entrepreneur, I’ve been in constant touch with design studi
 
 Studios have had to create a “hybrid” work culture, where designers are taking up tasks they never thought they would have to do. This change comes with the changing demand of clients that these studios are facing. Clients want studios to package UX design, graphics, marketing, development, and more into one service.
 
-<img height="52" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*lOGRKijv8rJHBAopqGetfw.png" />The navigation bar of a popular design studio
+<img height="52" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*lOGRKijv8rJHBAopqGetfw.png" />The navigation bar of a popular design studio
 
 Due to various changes, there is a huge space in the service and creative agency space. If you’re an open-minded designer with various skills you don’t mind using them to help the company, there is always a space for you. The whole notion of, “I only want to focus and grow as a UX designer” needs to go out the window when you need better opportunities. Take this advice of mine with a huge pinch of salt. The same path won’t work for everyone. Find and research opportunities based on your boundaries, preferences and wants.
 
 ## Physical Spaces Over Online Connections
 
-<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*U6Pv9pPISmVFdHeubH9wjQ.jpeg" />
+<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*U6Pv9pPISmVFdHeubH9wjQ.jpeg" />
 
 People have always craved physical connections and socialization over online networks and video calls. Being able to shake hands, share laughter, be present, and exchange business cards can never be replaced.
 
@@ -69,7 +69,7 @@ These events pose a great platform to get real time feedback on your ideas, pitc
 
 ## An Objective Look At The Confusing Job Market
 
-<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*QA4_PH7cWu6wZVTXwXSpLA.jpeg" />
+<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*QA4_PH7cWu6wZVTXwXSpLA.jpeg" />
 
 A couple of years ago, the job market in the design space wasn’t exactly booming. This was thanks to the taboo against creative careers, especially in families with little to no knowledge about such fields. However, in a vast landscape, even the smallest amount of demand was good enough for the low supply of employees.
 
@@ -98,13 +98,13 @@ Now, the world demands more designers, with a crazy saturation when it comes to 
 
 You expected this article to have a “AI is going to take your job” section, but you were pleasantly surprised to see a unique take on it.
 
-<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*iqiFnkoftf2T-c2W3_1HVQ.jpeg" />
+<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*iqiFnkoftf2T-c2W3_1HVQ.jpeg" />
 
 In the crowd of people putting AI down and wanting some regulations, I’m trying to stay optimistic. Don’t get me wrong, governing bodies restricting the use of AI to save jobs is a great way to go about it. In the meantime however, how can one use this technology to upgrade one’s career?
 
 To begin with, I came across this job-post on LinkedIn that sort of blew my mind.
 
-<img height="455" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*KRVvzbH5r_p79W-zNJhSmg.png" />A job post from a major ed-tech company
+<img height="455" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*KRVvzbH5r_p79W-zNJhSmg.png" />A job post from a major ed-tech company
 
 A fun tool that seemed to threaten creative jobs a few months ago, started creating a demand for specialists that could use the tool well. Most of these A.I. designers are going to work closely with graphic designers and leaders to provide them with necessary assets. Custom images for marketing material is a great example.
 
@@ -114,7 +114,7 @@ Unfortunately, it isn’t all flower petals and blue oceans. A.I. has arrived as
 
 Like it or not, design is not just design any more. In fact, UX design is a plethora of skills that helps improve the overall product. Whether it includes user research, market analysis, or product strategy, nothing is truly off limits. In fact, being closely involved with product managers is now encouraged and looked up at. These two professions are so closely stitched together that designers start becoming passionate about this new career path and often want to switch.
 
-<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*pwIXY_VNKo7KRMDKzF5A9A.jpeg" />
+<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*pwIXY_VNKo7KRMDKzF5A9A.jpeg" />
 
 > Level 1 : UX Designer, Level 2 : Product Designer, Level 3 : Product Manager?
 
@@ -124,7 +124,7 @@ This concept is full of clues of where UX design is headed to. You can see where
 
 ## Design is Passion Based & Interest Driven
 
-<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*jL_UXFeBvMKrhIYTH7sVTg.jpeg" class="wideImg" />
+<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*jL_UXFeBvMKrhIYTH7sVTg.jpeg" class="wideImg" />
 
 I started off as a photographer, jumped into web design, deviated into UX design and pivoted into entrepreneurship. I’ve come across thousands of UX designers during my educational journey, and one reality always struck me. They rarely stay in one place for a long time. In fact, some of my peers say they were always open to new ideas and wanted to explore something new every 2 years or so.
 
@@ -132,7 +132,7 @@ Off lately, AR/VR has erupted a new desire in designers to learn and switch. “
 
 This is a really cool revalation, since it reveals an interesting reality of UX designers. We are all techies! We use software. We create for new and cool hardware. We are unintentioanlly sucked into the tech and nerd iceberg.
 
-<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*vmyuY7Hmt_zSacd8fssEhg.jpeg" />
+<img height="467" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*vmyuY7Hmt_zSacd8fssEhg.jpeg" />
 
 As tech has been progressing in various different directions, we have the option to go in any direction as well. Whether it is AR/VR, folding screens, transparent displays, artificial intelligence, digital payments, software and hardware innovations, or anything revolving around tech; UX is driven by an individual’s interest in a certain field or industry.
 
@@ -140,7 +140,7 @@ As tech has been progressing in various different directions, we have the option
 
 ## Is UI Design Over Because of AI?
 
-<img height="368" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*6jPfw7WYYNYW70nn8NbXVg.png" />Uizard AI Design Tool
+<img height="368" width="700" src="https://miro.medium.com/v2/resize:fit:1200/1*6jPfw7WYYNYW70nn8NbXVg.png" />Uizard AI Design Tool
 
 Let’s face facts, companies understand that A.I. is a strong keyword they can use to promote their product. Because of this new evolution, almost every design tool has A.I. features as a part of their offering. You would also see some UI design tools powered by A.I., where you type in a prompt explaining your project and get editable screens in return.
 
