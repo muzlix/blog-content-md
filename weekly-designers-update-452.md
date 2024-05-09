@@ -17,7 +17,7 @@ Me? Oh, nothing much, I just wrapped up the new edition of Designers Update, and
 
 Check out the full list below and see you next week,
 
-**Eyal from Muzli**
+**- Eyal from Muzli**
 
 ## Web design inspiration
 
