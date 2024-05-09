@@ -6,6 +6,19 @@ date: '2024-05-09'
 image: 'https://miro.medium.com/v2/resize:fit:1200/format:webp/1*VMR5RodIMU3sW7aTUtH3hg.png'
 ---
 
+Hello, design world. How has your week been?
+
+Me? Oh, nothing much, I just wrapped up the new edition of Designers Update, and I’m excited to share it with you. Here are some inspiring projects that caught my radar this week:
+
+* Couple of unconventional websites from established design studios. Be sure to check out Rob Hemus if you like pixely stuff and TWOMUCH.STUDIO if you prefer more round floaty 3D stuff.
+* A quirky little browser game / WebGPU capability experiment from Kris Temmerman — Food for Fish. Perfect for old school point-and-click game lovers.
+* Whether you are a fan of AI or not, Freepik’s image generator has been one of our favorites for a while now.
+* And of course, more news, handpicked tools to improve your design workflow such as Figma plugins, design templates and more.
+
+Check out the full list below and see you next week,
+
+**Eyal from Muzli**
+
 ## Web design inspiration
 
 
