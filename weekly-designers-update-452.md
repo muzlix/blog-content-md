@@ -44,11 +44,11 @@ Check out the full list below and see you next week,
 
 ## Product Spotlight
 
-### [The latest AI Image Generator by Freepik](https://8x0u.short.gy/Freepik)
+### [The latest AI Image Generator by Freepik](https://www.freepik.com/ai/image-generator?utm_source=muzli&utm_medium=paid&utm_campaign=muzli&utm_term=2024_05&utm_content=freepik)
 
 Transform your ideas into stunning images in real-time with Freepik AI Image Generator. Customize prompts, styles, and settings, and enhance results with tools like Reimagine and Upscaler.
 
-[<img height="394" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*bDpncylgw-NvYREapeZNmA.jpeg" />](https://8x0u.short.gy/Freepik)
+[<img height="394" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*bDpncylgw-NvYREapeZNmA.jpeg" />](https://www.freepik.com/ai/image-generator?utm_source=muzli&utm_medium=paid&utm_campaign=muzli&utm_term=2024_05&utm_content=freepik)
 
 ---
 ### [ListenUp!](https://www.listenup.ai/)
