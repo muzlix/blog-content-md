@@ -3,7 +3,7 @@ title: 'Weekly Designers Update #452'
 description: 'Web design inspiration, weekly recap'
 draft: false
 date: '2024-05-09'
-image: 'https://miro.medium.com/v2/resize:fit:1200/format:webp/1*VMR5RodIMU3sW7aTUtH3hg.png'
+image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*i_re83-jdxgwYqUelVCykw.png'
 ---
 
 Hello, design world. How has your week been?
