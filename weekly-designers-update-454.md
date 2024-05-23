@@ -5,7 +5,7 @@ draft: false
 date: '2024-05-23'
 image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*2uyktvPLyNTspGXjwVNZxQ.png'
 ---
-**Weekly #454**
+
 Design people,
 
 The world seems to have been pretty crazy lately, huh? However, I’ve found that doing creative work helps to relax the mind. Even looking at inspiring works by others can be very soothing. That’s why I’m coming back to your screens with this week’s top designs that I’ve discovered on the web:
