@@ -47,7 +47,7 @@ Check out the full list below and see you around next week,
 ---
 ## Design Resources
 
-## [Animated Macbook Video Mockup](https://ui8.net/arpit-brandings/products/animated-macbook-pro-mockup?rel=muzli)
+### [Animated Macbook Video Mockup](https://ui8.net/arpit-brandings/products/animated-macbook-pro-mockup?rel=muzli)
 
 Easy to use Modern & Clean Animated Macbook Pro Video Mockup
 
