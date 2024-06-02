@@ -11,21 +11,17 @@ How’s your week going?
 
 Summer is just a couple of days away, and I feel that focusing on work on increasingly sunny days requires more and more willpower…That’s why it’s the perfect time to brew yourself a cup of coffee and browse through some colorful ideas to shake off the slumber, right? Here are my favorite design works that I discovered this week:
 
-\- Impressive website for GT America Intl typeface family.
-\- Unique portfolio of NYC agency inkfish.
-\- Completely different approach to creative agency presentation by Studio Kleiner.
-\- Eyecatchign work from creative duo PEDEN+MUNK
-\- An ebook recommendation to elevate your design skills
-\- And even more inspiration, fancy iPhone 15 mockups, Framer templates, productivity tools, etc.
+* Impressive website for GT America Intl typeface family.
+* Unique portfolio of NYC agency inkfish.
+* Completely different approach to creative agency presentation by Studio Kleiner.
+* Eye-catchign work from creative duo PEDEN+MUNK
+* An ebook recommendation to elevate your design skills
+* And even more inspiration, fancy iPhone 15 mockups, Framer templates, productivity tools, etc.
 
 Check out the full list below and see you around next week,
 
 **Eyal from Muzli**
 
-Looking for more daily inspiration?
-Download Muzli extension — your go-to source for design inspiration!
-
-[<img height="60" width="334" src="https://miro.medium.com/v2/resize:fit:334/1*ZuQkp0VWm3XiFHJaeqOi0A.png" />](https://muz.li/)
 
 ## Web design inspiration
 
