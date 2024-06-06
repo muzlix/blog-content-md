@@ -53,7 +53,6 @@ Design-wise emails usually focus on clear hierarchy and a simple one-column desi
 
 By the way, if you’re looking for perfectly matching colors and aren’t sure what would fit best, the free [Muzli Color Palette Generator](https://colors.muz.li/) is is a great tool to help you discover your vibe.
 
-**\[Muli color integration]**
 
 Now let’s dive deeper into the main element of a killer newsletter design: creating an effective call to action that will drive your readers toward your desired goal.
 
@@ -129,86 +128,107 @@ Finally, once the basics are in place, we can focus on creating the design itsel
 
 ![Pixel newsletter from Google](https://miro.medium.com/v2/resize:fit:598/1*IuotI8wfiqRbAmnJrz95hA.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 2. Newsletter design my [SMALLS](https://www.smalls.com/)
 
 ![Newsletter design by SMALLS](https://miro.medium.com/v2/resize:fit:370/1*lmyOIWLgLOQPIQCgH-1mHg.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 3. Minimalistic design by [Seed](https://seed.com/)
 
 ![Minimalistic design by Seed](https://miro.medium.com/v2/resize:fit:553/1*zUakCbWEMbO5PXa63tH5Gw.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 4. Fjalraven product line showcase newsletter
 
 ![Fjalraven product line showcase newsletter](https://miro.medium.com/v2/resize:fit:416/1*9S9Zv_VZKWT-f9mTzqa2PQ.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 5. Introduction mail by [Canva](http://canva.com/)
 
 ![Introduction mail by Canva](https://miro.medium.com/v2/resize:fit:589/1*1metK6MuDlQULmUyxsmonQ.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 6. User onboarding mail by [Miro](http://miro.com/)
 
 ![User onboarding mail by Miro](https://miro.medium.com/v2/resize:fit:675/1*xbnavTJf3w7Dt3wfcLY7RA.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 7. Alltrails mental health tips newsletter
 
 ![Alltrails mental health tips newsletter](https://miro.medium.com/v2/resize:fit:624/1*xvE7XhiIpr6mD7C3wu4lkg.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 8. Black Friday newsletter by [Kidly](https://www.kidly.co.uk/en-eu)
 
 ![Black Friday newsletter by Kidly](https://miro.medium.com/v2/resize:fit:560/1*-cPMe_mn21abwgUoM_DnLw.gif){ width=100% style="object-fit: cover;" }
 
+---
 ### 9. Father’s day promotion by [Italic](https://italic.com/)
 
 ![Father’s day promotion by Italic](https://miro.medium.com/v2/resize:fit:593/1*nwpWpjzifCgAbIWmKpz9HA.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 10. New collection newsletter by [Two Blind Brothers](https://twoblindbrothers.com/)
 
 ![New collection newsletter by Two Blind Brothers](https://miro.medium.com/v2/resize:fit:589/1*4hQIbrY0UYf9mgaiQ9IR1Q.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 11. Cart recovery email by [Rael](https://www.getrael.com/)
 
 ![Cart recovery email by Rael](https://miro.medium.com/v2/resize:fit:598/1*zWatmo6cQAx4gZEsSXv_Hg.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 12. Cart recovery email by [Explore Cuisine](https://explorecuisine.com/)
 
 ![Cart recovery email by Explore Cuisine](https://miro.medium.com/v2/resize:fit:594/1*vNMZHVcP-vk08TywBmDJzw.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 13. Birthday newsletter by [Readymag](https://readymag.com/)
 
 ![Birthday newsletter by Readymag](https://miro.medium.com/v2/resize:fit:560/1*ISVbiCdIuE-WilH7tcBiww.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 14. Personalized email by [Grammarly](http://grammarly.com/)
 
 ![Personalized email by Grammarly](https://miro.medium.com/v2/resize:fit:542/1*5IKeo81pXG18i4WvAIWaGQ.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 15. Welcome email by [Headspace](http://headspace.com/)
 
 ![Welcome email by Headspace](https://miro.medium.com/v2/resize:fit:536/1*WvKi_6isBKNt6L-kdIukqw.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 16. Email voting contest by [XumoTV](https://www.xumo.com/)
 
 ![Email voting contest by XumoTV](https://miro.medium.com/v2/resize:fit:493/1*LbPYCV5z1xsdVxFlbyTgzw.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 17. Tubi awards newsletter
 
 ![Tubi awards newsletter](https://miro.medium.com/v2/resize:fit:369/1*NSFum3YvMRRUzIxQfWwjww.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 18. User testimonial mail by [Surreal](https://eatsurreal.co.uk/)
 
 ![User testimonial mail by Surreal](https://miro.medium.com/v2/resize:fit:371/1*pq8qdHXuJMLyypNA1MnptA.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 19. Personalized mail by [Netflix](http://netflix.com/)
 
 ![Personalized mail by Netflix](https://miro.medium.com/v2/resize:fit:558/1*-MlXA9VP0G2rSEAKY6XAyA.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 20. Thank you email by [Swan Dive](https://drinkswandive.com/)
 
 ![Thank you email by Swan Dive](https://miro.medium.com/v2/resize:fit:563/1*PDPilL5OCnBdbvQrgXQX4w.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 21. Unsubscribe mail by [Cuisinart](https://www.cuisinart.com/)
 
 ![Unsubscribe mail by Cuisinart](https://miro.medium.com/v2/resize:fit:559/1*8vfqXUj_dRtkEIm8-ilPlA.png){ width=100% style="object-fit: cover;" }
 
+---
 ### 22. Diablo IV announcement by [Blizzard](https://diablo4.blizzard.com/en-gb/)
 
 ![Diablo IV announcement by Blizzard](https://miro.medium.com/v2/resize:fit:373/1*8JC0sRqDzI-2kyqAKmdt_Q.png){ width=100% style="object-fit: cover;" }
