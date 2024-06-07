@@ -30,43 +30,49 @@ Check out the full list below and see you around next week,
 [<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*KOq0ODVy_aJO1WZB.jpg" />](https://labs.noomoagency.com/?utm_source=extension\&utm_medium=click\&utm_campaign=muzli)
 
 
+---
 ### [Superpower](https://superpower.com/?utm_source=extension\&utm_medium=click\&utm_campaign=muzli)
 
 [<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*OFl-qBHk4s8Wr_Pe.jpg" />](https://superpower.com/?utm_source=extension\&utm_medium=click\&utm_campaign=muzli)
 
 
+
+---
 ### [Spaace](https://spaace.io/?utm_source=extension\&utm_medium=click\&utm_campaign=muzli)
 
 [<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*jZIieAPfMotIXEVy.jpg" />](https://spaace.io/?utm_source=extension\&utm_medium=click\&utm_campaign=muzli)
 
 
+
+---
 ### [Dolce Beauty | Dolce\&Gabbana](https://dolceactivation.dolcegabbana.com/?utm_source=extension\&utm_medium=click\&utm_campaign=muzli)
 
 [<img height="525" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*npYNeEAgwznUtLjg.jpg" />](https://dolceactivation.dolcegabbana.com/?utm_source=extension\&utm_medium=click\&utm_campaign=muzli)
 
 ## Design Resources
 
-## [Bento Cards v2: AI](https://ui8.net/ui8/products/bento-cards-v2-ai?rel=muzli)
+### [Bento Cards v2: AI](https://ui8.net/ui8/products/bento-cards-v2-ai?rel=muzli)
 
 Cutting-edge AI-powered Bento Cards for innovative projects
 
 [<img height="529" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*HZuS_zt8HGYox6ck.png" />](https://ui8.net/ui8/products/bento-cards-v2-ai?rel=muzli)
 
 
+---
 ### [Banksad — Finance Mobile App UI Kit](https://ui8.net/caraka/products/banksad---finance-mobile-app-ui-kit?rel=muzli)
 
 50+ screens of Banksad — Finance Mobile App UI Kit
 
 [<img height="529" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*q_cr9CSMnBKleyXO.jpg" />](https://ui8.net/caraka/products/banksad---finance-mobile-app-ui-kit?rel=muzli)
 
-
+---
 ### [Plastic Wrap Overlay Textures](https://ui8.net/borys-yankovoy/products/plastic-wrap-overlay-backgrounds?rel=muzli)
 
 30 transparent plastic wrap overlay textures
 
 [<img height="529" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*6TTguvXcWYl5IiP3.png" />](https://ui8.net/borys-yankovoy/products/plastic-wrap-overlay-backgrounds?rel=muzli)
 
-
+---
 ### [CraftHive — Creative Workshop Framer template](https://www.framer.com/templates/crafthive/?via=usemuzli)
 
 Show the creativity of your workshop not only from the classes you provide but also from the website you have using CraftHive, the fun, and bright creative workshop website Framer template.
@@ -81,21 +87,21 @@ advanced AI logo maker simplifies the process of designing a professional and un
 
 [<img height="400" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*fTy5CESzCIX7n6kYWtrH7w.png" />](https://www.logome.ai/)
 
-
+---
 ### [Wegic](https://wegic.ai/)
 
 The first AI web designer & developer by your side.
 
 [<img height="368" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*o3VuQsYP25lpiL0n.png" />](https://wegic.ai/)
 
-
+---
 ### [Frontly — Build AI-powered apps with no code](https://frontly.ai/)
 
 Build AI-powered SaaS apps and custom internal tools in record time with no code.
 
 [<img height="350" width="700" src="https://miro.medium.com/v2/resize:fit:700/0*TUEZHqaVTkqRlP4M.png" />](https://frontly.ai/)
 
-
+---
 ### [Wavy Lines — figma plugin](https://www.figma.com/community/plugin/1357290676103745205/wavy-lines)
 
 Create dynamic jagged and wavy lines effortlessly with this plugin.
