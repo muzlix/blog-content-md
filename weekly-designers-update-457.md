@@ -18,6 +18,7 @@ How has your week been? What’s new? Did you catch the Apple WWDC? What do you 
 * And even more inspiration, fancy design mockups, templates, AI productivity tools.
 
 Check out the full list below and see you around next week,
+
 **Eyal from Muzli**
 
 
@@ -47,7 +48,7 @@ Check out the full list below and see you around next week,
 
 ## Design Resources
 
-## [Nothing Studio — Dynamic Framer Template](https://ui8.net/basit/products/nothing-studio---dynamic-framer-template?rel=muzli)
+### [Nothing Studio — Dynamic Framer Template](https://ui8.net/basit/products/nothing-studio---dynamic-framer-template?rel=muzli)
 
 Dynamic framer website template for studio
 
@@ -79,7 +80,7 @@ Caku — SaaS Financial Framer template
 
 ## Product Spotlight
 
-## [Reliv — Automate QA Tests In Just 5 Minutes](https://reliv.ai/)
+### [Reliv — Automate QA Tests In Just 5 Minutes](https://reliv.ai/)
 
 QA automation without a single line of code
 
