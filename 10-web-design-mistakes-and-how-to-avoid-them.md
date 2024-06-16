@@ -36,7 +36,7 @@ Creating a visually appealing and user-friendly website can be challenging. Howe
 
 **Solution:** Optimize images, use efficient coding practices, and leverage caching to improve your site’s load times. Tools like Google PageSpeed Insights can help identify areas for improvement.
 
-<img height="367" width="700" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200 /1*KcnYkGt9bJpgb3190vpHwA.png" />
+<img height="367" width="700" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200/1*KcnYkGt9bJpgb3190vpHwA.png" />
 
 ---
 ## 5. Ignoring SEO Principles
@@ -52,7 +52,7 @@ Creating a visually appealing and user-friendly website can be challenging. Howe
 
 **Solution:** Establish a style guide for your website and stick to it. Consistency in design helps build a cohesive and professional look.
 
-<img height="350" width="700" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200 /1*SojUxbKpchXKo6VgBn_MLA.png" />
+<img height="350" width="700" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200/1*SojUxbKpchXKo6VgBn_MLA.png" />
 
 ---
 ## 7. Lack of Accessibility
@@ -68,7 +68,7 @@ Creating a visually appealing and user-friendly website can be challenging. Howe
 
 **Solution:** Test your website across multiple browsers to ensure a consistent experience. Tools like BrowserStack can help with cross-browser testing.
 
-<img height="350" width="700" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200 /1*1KWChdP34BZXFIRIG9GZFg.png" />
+<img height="350" width="700" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200/1*1KWChdP34BZXFIRIG9GZFg.png" />
 
 ---
 ## 9. Overuse of Animations
@@ -84,4 +84,4 @@ Creating a visually appealing and user-friendly website can be challenging. Howe
 
 **Solution:** Collect and analyze user feedback to make informed design improvements. Use surveys, usability testing, and analytics to gather insights.
 
-<img height="350" width="700" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200 /1*E0xFM1tNAtddEc4m6iJE4w.png" />
+<img height="350" width="700" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200/1*E0xFM1tNAtddEc4m6iJE4w.png" />
