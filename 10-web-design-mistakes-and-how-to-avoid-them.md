@@ -13,7 +13,7 @@ Creating a visually appealing and user-friendly website can be challenging. Howe
 
 **Solution:** Use responsive design techniques to ensure your website looks great on all devices. Tools like CSS media queries can help you create a flexible layout that adapts to different screen sizes.
 
-[<img height="350"" width="1200" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200/1*fsl_5KIdN2VaX-epsJkahg.png" />](https://muz.li/)
+[<img height="350" width="1200" class="wideImg" src="https://miro.medium.com/v2/resize:fit:1200/1*fsl_5KIdN2VaX-epsJkahg.png" />](https://muz.li/)
 
 ---
 ## 2. Overloading with Content
