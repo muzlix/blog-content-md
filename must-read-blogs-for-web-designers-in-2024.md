@@ -1,8 +1,8 @@
 ---
 title: Must-Read Blogs for Web Designers in 2024
-description: 10 common mistakes that can detract from the user experience and negatively impact your site’s performance. Avoid them.
+description: Blogs and publications offer an excellent source of continuous learning and inspiration.
 draft: False
-date: '2024-16-06'
+date: '2024-18-06'
 image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*SpDlo15GcK4sIFH5bytEEg.png
 ---
 
