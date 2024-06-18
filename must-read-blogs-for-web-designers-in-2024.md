@@ -92,6 +92,7 @@ Features articles on design collaboration, product updates, and tips for using F
 ### [It’s Nice That](https://www.itsnicethat.com/)
 
 Covers a wide range of creative disciplines, showcasing inspiring work and providing insights into the design industry
+
 ---
 ### [Designmodo](https://designmodo.com/website/website-design/)
 
