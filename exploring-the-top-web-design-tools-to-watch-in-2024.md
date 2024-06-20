@@ -1,4 +1,5 @@
 ---
+categories: ['design', 'tools']
 title: 'Exploring the top web design tools to watch in 2024'
 description: 'A glimpse into some of the most compelling tools that every web designer should keep an eye on this year'
 draft: false

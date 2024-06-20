@@ -1,4 +1,5 @@
 ---
+categories: ['inspiration', 'spotlight']
 title: 'Design Spotlight 2'
 description: 'Unveiling This Week’s Fascinating Branding Projects'
 draft: false

@@ -1,4 +1,5 @@
 ---
+categories: ['trends']
 title: Web Design Trends 2023 > 2024
 description: >-
   The world of web design is constantly evolving, with new trends emerging all

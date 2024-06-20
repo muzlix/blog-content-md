@@ -1,4 +1,5 @@
 ---
+categories: ['inspiration', 'blogs']
 title: Must-Read Blogs for Web Designers in 2024
 description: Blogs and publications offer an excellent source of continuous learning and inspiration.
 draft: False

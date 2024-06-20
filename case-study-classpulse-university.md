@@ -1,4 +1,5 @@
 ---
+categories: ['case-study']
 title: 'Case study: ClassPulse University'
 description: 'Today, we’re thrilled to share the story of our team at desh.team as we developed an online course platform for ClassPulse University.'
 draft: false

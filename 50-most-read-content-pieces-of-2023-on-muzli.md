@@ -1,4 +1,5 @@
 ---
+categories: ['inspiration', 'blogs']
 title: Top 50 Most-Read Content Pieces of 2023 on Muzli
 description: We meticulously track the captivating trends and content that influenced Muzli users throughout the year of 2023.
 draft: False

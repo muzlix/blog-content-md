@@ -1,4 +1,5 @@
 ---
+categories: ['UI', 'portfolio', 'inspiration']
 title: 'Top 60 Most Creative and Unique Portfolio Websites of 2023'
 description: 'We meticulously handpicked the 60 most exceptional and creative portfolio sites that encapsulate ingenuity, aesthetics, and distinctiveness.'
 draft: false

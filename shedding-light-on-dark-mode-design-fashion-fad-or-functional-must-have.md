@@ -1,4 +1,5 @@
 ---
+categories: ['design']
 title: 'Shedding Light on Dark Mode design: Fashion Fad or Functional Must-Have?'
 description: 'There’s no denying the undeniable charm of the dark mode UI. It’s the James Bond of design — sleek, sophisticated, and seems to favor martinis served “shaken, not stirred”.'
 draft: false

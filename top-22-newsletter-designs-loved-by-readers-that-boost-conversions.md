@@ -1,4 +1,5 @@
 ---
+categories: ['marketing']
 title: 'Top 22 Newsletter Designs Loved by Readers That Boost Conversions'
 description: 'Newsletter design often is a controversial topic. There are generally two kinds of people: those who think email is the best form of communication and those who despise it with all their hearts. Which one are you?.'
 draft: false

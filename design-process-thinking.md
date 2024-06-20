@@ -1,4 +1,5 @@
 ---
+categories: ['UX', 'design']
 title: 'Design Process Thinking - a human-centric approach to problem solving'
 description: 'The essential stages of design thinking process'
 draft: false

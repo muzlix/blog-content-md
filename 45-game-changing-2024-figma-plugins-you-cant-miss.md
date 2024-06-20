@@ -1,4 +1,5 @@
 ---
+categories: ['figma', 'tools']
 title: '45 Game-Changing 2024 Figma Plugins You Can’t Miss!'
 description: 'Carefully curated, these plugins are poised to enhance your workflow, amplify your creativity, and elevate your Figma experience.'
 draft: false

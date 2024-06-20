@@ -1,4 +1,5 @@
 ---
+categories: ['weekly']
 title: 'Weekly Designers Update #451'
 description: 'Web design inspiration, weekly recap'
 draft: false

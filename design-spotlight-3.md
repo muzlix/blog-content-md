@@ -1,4 +1,5 @@
 ---
+categories: ['inspiration', 'spotlight']
 title: 'Design Spotlight 3'
 description: 'Illuminating inspirational design projects'
 draft: false

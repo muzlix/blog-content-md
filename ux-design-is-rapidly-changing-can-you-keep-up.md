@@ -1,4 +1,5 @@
 ---
+categories: ['UX']
 title: 'UX Design Is Rapidly Changing — Can You Keep Up?'
 description: 'UX design is a profession that was introduced to help companies solve problems creatively. However...'
 draft: false

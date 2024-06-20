@@ -1,4 +1,5 @@
 ---
+categories: ['footer', 'inspiration']
 title: '100 Unique Website Footer Design Inspiration'
 description: 'Explore Innovative Footer Designs for Your Website Inspiration'
 draft: false

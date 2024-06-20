@@ -1,4 +1,5 @@
 ---
+categories: ['design']
 title: The Rise and Fall of Design Platforms
 description: Tools, companies, and sources that have cemented their place in the Design Hall of Fame. There’s a lot of fallen giants too.
 draft: False

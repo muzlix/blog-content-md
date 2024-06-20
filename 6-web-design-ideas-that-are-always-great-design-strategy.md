@@ -1,4 +1,5 @@
 ---
+categories: ['inspiration']
 title: '6 Web Design Ideas that are Always a Great Design Strategy'
 description: 'We have compiled 6 web design ideas that are the ever-green starting point for every project. From innovative layouts to captivating color schemes, these ideas are designed to push the boundaries and enhance user experience.'
 draft: false

@@ -1,4 +1,5 @@
 ---
+categories: ['fonts']
 title: 'Best Free Google Fonts 2024'
 description: 'From elegant serif fonts to modern sans-serif options, Google Fonts offers something for everyone. Completely free.'
 draft: false

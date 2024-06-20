@@ -1,4 +1,5 @@
 ---
+categories: ['fonts']
 title: '30 Great Free Trendy Fonts for 2024'
 description: 'Choosing the right font can make a significant impact on the visual appeal of your project. As we step into 2024, let’s explore 30 outstanding free fonts that can add creativity and style to your designs.'
 draft: false

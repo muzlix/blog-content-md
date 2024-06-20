@@ -1,4 +1,5 @@
 ---
+categories: ['portfolio', 'guides']
 title: 'The Ultimate Guide to Creating Outstanding Design Portfolio'
 description: 'How to curate a portfolio that is technically robust, aesthetically captivating, and aligned with your career goals.'
 draft: false

@@ -1,4 +1,5 @@
 ---
+categories: ['logos', 'guides']
 title: 'How to design a timeless logo (+24 inspiring examples)'
 description: 'Research shows that, on average, a person sees around 5,000 logos per day. How do we create a successful logo, and where do we start?'
 draft: false

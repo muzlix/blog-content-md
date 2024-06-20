@@ -1,4 +1,5 @@
 ---
+categories: ['design', 'guides']
 title: 'Exploring the Depth of Design: Principles Driving Innovative Products'
 description: 'In the dynamic world of product design, principles are the guiding stars that navigate the journey from a concept to a tangible reality.'
 draft: false

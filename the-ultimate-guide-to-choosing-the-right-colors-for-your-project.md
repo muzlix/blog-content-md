@@ -1,4 +1,5 @@
 ---
+categories: ['color','guides']
 title: 'The Ultimate Guide to Choosing the Right Colors for Your Project'
 description: 'Understanding and utilizing colors to their full potential is no less than a science'
 draft: false

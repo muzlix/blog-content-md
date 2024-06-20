@@ -1,4 +1,5 @@
 ---
+categories: ['inspiration', 'twitter']
 title: 'Twitter creative list — a treasure trove for designers'
 description: 'Our carefully curated Twitter list is your gateway to a world brimming with creativity and innovation.'
 draft: false

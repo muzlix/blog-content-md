@@ -1,4 +1,5 @@
 ---
+categories: ['AI', 'design']
 title: 'AI image generator - Sketch-to-Image for designers'
 description: 'Powered by ever-evolving algorithms, AI image generators harness the vast potential of machine learning to generate high-quality images from basic sketches.'
 draft: false

@@ -1,4 +1,5 @@
 ---
+categories: ['design', 'tools', 'figma']
 title: 'Advanced Figma tips and tricks to save designers time'
 description: 'We’ve compiled new Figma functionalities and old methods — perhaps you’ve missed something?'
 draft: false

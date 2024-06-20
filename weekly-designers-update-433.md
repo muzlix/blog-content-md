@@ -1,4 +1,5 @@
 ---
+categories: ['weekly']
 title: 'Weekly Designers Update #433'
 description: 'In the dynamic world of product design, principles are the guiding stars that navigate the journey from a concept to a tangible reality.'
 draft: false

@@ -1,4 +1,5 @@
 ---
+categories: ['UX', 'AI']
 title: 'Collaborative UX: Integrating AI into design thinking'
 description: 'By exploring how AI might change the foundations of UX, we advocate for a more collaborative framework where designers, engineers and AI work together.'
 draft: false

@@ -1,4 +1,5 @@
 ---
+categories: ['design', 'guides']
 title: 10 Web Design Mistakes and How to Avoid Them
 description: 10 common mistakes that can detract from the user experience and negatively impact your site’s performance. Avoid them.
 draft: False
