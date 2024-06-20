@@ -1,5 +1,5 @@
 ---
-category: Designers Update, Weekly
+category: 'Weekly'
 title: 'Weekly Designers Update #458'
 description: 'Web design inspiration, weekly recap'
 draft: false
