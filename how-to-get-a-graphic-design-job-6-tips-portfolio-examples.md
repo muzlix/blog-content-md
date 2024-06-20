@@ -2,7 +2,7 @@
 title: How to get a graphic design job? 6 tips + portfolio examples
 description: A graphic design job is an excellent combination of the creativity that artistic professions offer and the perks of a stable career.
 draft: False
-date: '2024-17-06'
+date: '2024-20-06'
 image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zaTVdiphPd4NV1Pz6iL2Iw.png
 ---
 
