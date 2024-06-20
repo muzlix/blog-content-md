@@ -2,7 +2,7 @@
 title: 'Weekly Designers Update #458'
 description: 'Web design inspiration, weekly recap'
 draft: false
-category: weekly, inspiration
+category: 'weekly', 'inspiration'
 date: '2024-06-20'
 image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Z606gtI7CUW7G6YMkPS9tQ.png'
 ---
