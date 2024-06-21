@@ -3,7 +3,7 @@ categories: ['inspiration', 'blogs']
 title: Must-Read Blogs for Web Designers in 2024
 description: Blogs and publications offer an excellent source of continuous learning and inspiration.
 draft: False
-date: '2024-17-06'
+date: '2024-06-17'
 image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*SpDlo15GcK4sIFH5bytEEg.png
 ---
 

@@ -3,7 +3,7 @@ categories: ['design']
 title: The Rise and Fall of Design Platforms
 description: Tools, companies, and sources that have cemented their place in the Design Hall of Fame. There’s a lot of fallen giants too.
 draft: False
-date: '2024-18-06'
+date: '2024-06-18'
 image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*BdByHf13rg4VMvI2dvGTZQ.png
 ---
 
