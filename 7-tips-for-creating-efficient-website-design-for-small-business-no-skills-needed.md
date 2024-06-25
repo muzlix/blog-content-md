@@ -4,7 +4,7 @@ title: 7 tips for creating efficient website design for small business (no skill
 description: 'As budget and time limitations become very important factors, the brief becomes very simple: the company simply needs a nice website to inform our customers about what they do.'
 draft: False
 date: '2024-06-21'
-image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*57IaLb0JCbwTpDA4lvCwLA.png
+image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*sNewChM9ICuXokbrzbymQw.png
 ---
 
 
