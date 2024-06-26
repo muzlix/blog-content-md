@@ -1,6 +1,6 @@
 ---
 categories: ['design', 'guides', 'tools']
-title: 7 no-skill tips for creating efficient SMB website design
+title: 7 easy tips for creating website design for a small business
 description: 'As budget and time limitations become very important factors, the brief becomes very simple: the company simply needs a nice website to inform our customers about what they do.'
 draft: False
 date: '2024-06-21'
