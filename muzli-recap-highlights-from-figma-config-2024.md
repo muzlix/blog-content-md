@@ -11,11 +11,12 @@ image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*7_yxfmPt7kh779s
 
 ### An Electric Atmosphere of Innovation and Anticipation
 
-Yesterday, Figma Config 2024 was not just an event — it was a milestone in the world of design. Held in a vibrant, bustling venue filled with eager designers and tech enthusiasts, the atmosphere was charged with excitement and a touch of apprehension. This year’s conference showcased Figma’s relentless drive to push the boundaries of design technology, setting the stage for groundbreaking innovations that promise to reshape the way we work and collaborate.
+Figma is an increasingly dominant player in the design world. This fact made 2024’s Figma Config one of the key events for the design community this year.
+The Moscone Center in San Francisco was filled with eager designers and tech enthusiasts. But beneath the excitement, there was also a sense of caution — is Figma going to announce something that will completely transform the design landscape?
+As expected, AI became one of the most popular topics of the conference. Figma promised groundbreaking innovations to reshape the way we work and collaborate. But can they deliver? Or are they just riding the hype wave?
 
-As the keynote speakers took the stage, the crowd was captivated by the unveiling of features that felt almost futuristic. The energy was palpable, with each announcement met with enthusiastic applause and murmurs of approval. Yet, beneath the excitement, there was a sense of caution — how will these powerful new tools change the design landscape? Are we ready to embrace this next wave of innovation?
+We’ve been closely watching this year’s conference, so let’s dive into the full list of features and updates that were unveiled…
 
-**So, let’s dive together into the full list of features and updates that were unveiled…**
 
 <img height="444" width="666" src="https://miro.medium.com/v2/resize:fit:666/0*j4a1PHWEoU2IUZrN" />
 
@@ -82,20 +83,19 @@ Prototyping in Figma has reached new heights with the introduction of micro-inte
 
 <img height="463" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*nrpg_MVH9jXJZNTpRwFVag.png" />
 
-## Our Personal Take at Muzli
+## What do we at Muzli think about the new updates?
 
-Figma Config 2024 was a landmark event, showcasing innovations that could fundamentally change the design process. We at [Muzli](https://muz.li/) were thrilled to see the advanced collaboration tools, the cool AI features, and the improvements in prototyping and accessibility. These tools position Figma at the forefront of design technology, promising a more efficient, collaborative, and innovative work environment.
+Without a doubt, Figma Config 2024 was a landmark event, showcasing innovations that could fundamentally change the design process. We at Muzli were happy to see the advanced collaboration tools, the cool AI features, and the improvements in prototyping and accessibility. Even Figma Slides sounds like a fun and long-overdue replacement for Powerpoint or Canva.
 
-But we have to pause and ask ourselves — is all this too good to be true? Is this AI going to make us more efficient design machines or take away all the fun and creativity?
+This event establishes Figma as an even stronger player that will be really hard for competitors to catch.
+BUT we have to pause and ask ourselves — is all this too good to be true? Will they be able to deliver on these promises? And on a more philosophical note — is this AI going to make us more efficient design machines and take away all the fun and creativity? What new challenges will we need to tackle?
 
-Will all these new tools really improve the way we work, or will they introduce new challenges we’ll need to tackle?
+All this and more, in the next episode :smile:
+Special reporter Eyal, out.
 
-All this and more, in the next episode 😄
-
-Brought to you with love from [Muzli](https://muz.li/), the designer’s home
 
 ### You can watch all the announcements here:
 
 ## Config 2024: Figma product launch keynote
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n5gJgkO2Dg0?si=5BBLu60Ik0mfVbkG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe  width="680" height="382" src="https://www.youtube.com/embed/n5gJgkO2Dg0?si=5BBLu60Ik0mfVbkG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
