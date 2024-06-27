@@ -78,7 +78,7 @@ Dev Mode was a major focus at the conference, with updates designed to bridge th
 
 ## Enhanced Prototyping Capabilities
 
-Prototyping in Figma has reached new heights with the introduction of micro-interactions and advanced animation effects. These features allow for the creation of more interactive and realistic prototypes. The improved device preview options let designers test their prototypes on various devices and screen sizes directly within Figma, ensuring a seamless user experience. Conditional logic support enables the creation of sophisticated user flows that accurately simulate real-world interactions.
+Prototyping in Figma has reached new heights with the introduction of micro-interactions and advanced animation effects. These features allow for the creation of more interactive and realistic prototypes. The improved device preview options let designers test their prototypes on various devices and screen sizes directly within Figma, ensuring a seamless user experience. Conditional logic support enables the creation of sophisticated user flows that accurately simulate real-world interactions. 
 
 <img height="463" width="700" src="https://miro.medium.com/v2/resize:fit:700/1*nrpg_MVH9jXJZNTpRwFVag.png" />
 
