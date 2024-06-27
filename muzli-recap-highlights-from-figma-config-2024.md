@@ -12,7 +12,9 @@ image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*7_yxfmPt7kh779s
 ### An Electric Atmosphere of Innovation and Anticipation
 
 Figma is an increasingly dominant player in the design world. This fact made 2024’s Figma Config one of the key events for the design community this year.
+
 The Moscone Center in San Francisco was filled with eager designers and tech enthusiasts. But beneath the excitement, there was also a sense of caution — is Figma going to announce something that will completely transform the design landscape?
+
 As expected, AI became one of the most popular topics of the conference. Figma promised groundbreaking innovations to reshape the way we work and collaborate. But can they deliver? Or are they just riding the hype wave?
 
 We’ve been closely watching this year’s conference, so let’s dive into the full list of features and updates that were unveiled…
