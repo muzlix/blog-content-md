@@ -26,10 +26,6 @@ Check out the full list below and see you around next week,
 
 **Eyal from Muzli**
 
-Looking for more daily inspiration?
-Download Muzli extension — your go-to source for design inspiration!
-
-[<img height="76" width="385" src="https://miro.medium.com/v2/resize:fit:385/1*AM7d4IZZf5-Ee9thWLSEUQ.png" />](https://muz.li/)
 
 ## Web design inspiration
 
